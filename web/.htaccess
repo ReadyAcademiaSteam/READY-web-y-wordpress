@@ -1,0 +1,9 @@
+#Force non-www:
+RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^www\.academiaready\.es [NC]
+#RewriteRule ^(.*)$ https://academiaready.es/$1 [L,R=301]
+
+ErrorDocument 404 https://academiaready.es/404.php
+
+RewriteRule ^agenda/(.+)/(.+)$ agenda_ver.php?ref=$1 [L]
+RewriteRule ^blog/(.+)/(.+)$ blog_ver.php?ref=$1

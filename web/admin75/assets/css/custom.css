@@ -1,0 +1,173 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+html,body {
+	height:100%;
+}
+.row{
+	margin-bottom:-17px;
+}
+.breadcrumb{
+  padding:0;
+  margin-bottom: 17px;
+}
+.modal-footer {
+  margin-top: -10px;
+}
+.profile-info.dropdown > a {
+	font-size:12px;
+}
+.links-list {
+  padding: 0;
+  margin-top:-12px;
+}
+.tile-block .tile-content .todo-list .neon-cb-replacement .cb-wrapper + label {
+  top: -3px;
+}
+.form-horizontal .row{
+	margin-bottom:5px;
+}
+.form-horizontal .form-group{
+	margin:0;
+}
+.main-content{
+	min-height:100%;
+}
+.cuerpo{
+	margin-bottom:60px;
+	padding-top:115px;
+}
+footer.main{
+	position:absolute;
+	bottom:0;
+	width:calc(100% - 40px);
+	background:#FFF;
+	padding:15px 0;
+}
+.login-page .login-header{
+	padding:50px 0;
+}
+.dataTables_processing{
+	width:100%;
+	text-align:center;
+	height:75px;
+}
+.rojo{
+	color:#900;
+}
+.modal-body{
+	text-align:center;
+}
+.modal-footer{
+	border-top:0;
+	text-align:center;
+}
+#form_login .form-control{
+	height:31px;
+}
+.cabecera_idioma{
+	padding:5px 0 5px 10px;
+	background:#D6D6D6;
+	margin:10px 0;
+	border-radius:5px;
+}
+.cabecera_idioma img{
+	margin:-4px 10px 0 0;
+}
+
+.row > .form-group,
+.form-groups-standar > .form-group,
+.form-groups-standar > .modal-body > .form-group {
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin-bottom: 0px;
+}
+.form-groups-standar > .form-group:first-child,
+.form-groups-standar > .modal-body > .form-group:first-child {
+  padding-top: 0;
+}
+.form-groups-standar > .form-group:last-child,
+.form-groups-standar > .modal-body > .form-group:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.cuadro_filtro{
+	padding:10px 0;
+	/*
+	background:#D6D6D6;
+	border-radius:5px;
+	clear:both;
+	*/
+}
+.wrapperpepe{
+	margin:0 auto;
+	overflow:auto;
+}
+.btn-xs {
+  margin-bottom:3px;
+}
+.navbar-fixed-top{
+	margin:0 20px 0 250px;
+	padding:10px 0 0 0;
+}
+.navbar-cabecera{
+	padding:10px 0 10px;
+}
+.list-inline > li {
+  padding-top:10px;
+}
+.tile-inicio{
+  margin:10px;
+  width:200px;
+  display:inline-block;
+}
+.tile-inicio .glyphicon{
+  font-size:100px !important;
+  color:#000 !important;
+}
+.tile-inicio .title{
+	height:75px;
+}
+.tile-inicio .title h3{
+	display:inline-table;
+}
+
+@media (max-width: 992px){
+    .navbar-fixed-top {
+		margin-left:85px;
+    }
+}
+@media (max-width: 768px) {
+	.sidebar-menu.fixed{
+		overflow:visible;
+	}
+    .navbar-fixed-top {
+		margin:0;
+        position: relative;
+        top: auto;
+    }
+    .navbar-collapse {
+        max-height: none;
+    }
+    .cuerpo {
+        padding-top:20px;
+    }
+	.navbar-cabecera{
+		padding:0 15px 10px 0;
+		text-align:right;
+	}
+
+}
+.modal-body h4{
+	font-size:12px;
+}
+.datepicker{z-index:1151 !important;}
+
+.no-enlace{
+	pointer-events: none;
+	cursor: default;
+}

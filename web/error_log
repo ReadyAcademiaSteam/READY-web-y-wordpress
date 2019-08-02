@@ -1,0 +1,1 @@
+[11-Jul-2019 21:53:43 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/academiaready/public_html/include/conexion.php on line 7

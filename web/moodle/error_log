@@ -1,0 +1,7 @@
+[10-Jul-2019 18:26:39 UTC] PHP Warning:  filesize(): stat failed for /home/academiaready/moodledata/lang/es/tinymce_youtube.php in /home/academiaready/public_html/moodle/lib/filestorage/zip_packer.php on line 362
+[10-Jul-2019 18:26:39 UTC] PHP Fatal error:  Uncaught lang_installer_exception: No se puede descomprimir el archivo (es) in /home/academiaready/public_html/moodle/lib/componentlib.class.php:810
+Stack trace:
+#0 /home/academiaready/public_html/moodle/lib/componentlib.class.php(665): lang_installer->install_language_pack('es')
+#1 /home/academiaready/public_html/moodle/install.php(383): lang_installer->run()
+#2 {main}
+  thrown in /home/academiaready/public_html/moodle/lib/componentlib.class.php on line 810
