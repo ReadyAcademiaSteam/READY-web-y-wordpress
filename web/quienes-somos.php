@@ -21,7 +21,7 @@
 <meta name="author" content="<? echo autor; ?>" />
 <meta name="description" content="<? echo descripcion; ?>">
 
-<title>Quienes somos - <? echo titulo; ?></title>
+<title>Quiénes somos - <? echo titulo; ?></title>
 
 <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
 <link href="css/plugins.css" rel="stylesheet">
@@ -50,9 +50,9 @@
     <div class="container">
         <div class="breadcrumb">
             <ul>
-                <li><a href="#">Home</a> </li>
-                <li><a href="#">Page title</a> </li>
-                <li class="active"><a href="#">Video background</a> </li>
+                <li><a href="#">Inicio</a> </li>
+                <li><a href="#">Sobre nosotros</a> </li>
+                <li class="active"><a href="#">Quiénes somos</a> </li>
             </ul>
         </div>
         <div class="page-title">
@@ -63,20 +63,20 @@
 </section>
 
 <section data-animation="fadeInUp">
-<div class="container">
-<div class="row">
-<div class="col-lg-3">
-<div class="heading-text heading-section">
-<h2>LA COMPAÑÍA</h2>
-</div>
-</div>
-<div class="col-lg-9">
-<div class="row">
-<div class="col-lg-6">The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, <br> <br> facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. </div>
-<div class="col-lg-6">Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. <br> <br>The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volut.</div>
-</div></div>
-</div>
-</div>
+    <div class="container">
+    <div class="row">
+    <div class="col-lg-3">
+    <div class="heading-text heading-section">
+    <h2>LA COMPAÑÍA</h2>
+    </div>
+    </div>
+    <div class="col-lg-9">
+    <div class="row">
+    <div class="col-lg-6">The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, <br> <br> facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. </div>
+    <div class="col-lg-6">Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. <br> <br>The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volut.</div>
+    </div></div>
+    </div>
+    </div>
 </section>
 
 <section class="box-fancy section-fullwidth text-light p-b-0">
@@ -114,23 +114,33 @@
         <div class="col-lg-4" data-animation="fadeInLeft">
         <div class="team-member">
         <div class="team-image">
-        <img src="images/team/8.jpg">
+        <img src="images/quienessomos/antonio.jpg">
         </div>
         <div class="team-desc">
         <h3>Antonio Reverte</h3>
         <span>COO y formador</span>
         <p>Docente de refuerzo escolar y universitario. </p>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon list-icon-check list-icon-colored">
+            <li>Ingeniero industrial de profesión</li>
+            <li>Maker de espíritu</li>
+            <li>Músico aficionado</li>
+        </ul>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon">
+            <li><i style="color: #ffdf66" class="fa fa-trophy"></i>Aprende muy rápido</li>
+            <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta bromear con sus alumnos</li>
+            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
+        </ul>
         <div class="align-center">
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-        <i class="fab fa-twitter"></i>
+        <i class="fa fa-twitter"></i>
         <span>Twitter</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-        <i class="fab fa-instagram"></i>
+        <i class="fa fa-instagram"></i>
         <span>Instagram</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-        <i class="far fa-envelope"></i>
+        <i class="fa fa-envelope"></i>
         <span>Mail</span>
         </a>
         </div>
@@ -142,27 +152,37 @@
         <div class="col-lg-4" data-animation="fadeInDown">
         <div class="team-member">
         <div class="team-image">
-        <img src="images/team/6.jpg">
+        <img src="images/quienessomos/carlos.jpg">
         </div>
         <div class="team-desc">
         <h3>Carlos Díaz</h3>
         <span>CEO y Formador</span>
         <p>Robótica educativa, programación de videojuegos, talleres STEAM </p>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon list-icon-check list-icon-colored">
+            <li>Ingeniero industrial de profesión</li>
+            <li>Maker de espíritu</li>
+            <li>Músico aficionado</li>
+        </ul>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon">
+            <li><i style="color: #ffdf66" class="fa fa-trophy"></i>Aprende muy rápido</li>
+            <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta bromear con sus alumnos</li>
+            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
+        </ul>
         <div class="align-center">
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-        <i class="fab fa-linkedin"></i>
+        <i class="fa fa-linkedin"></i>
         <span>Linked.in</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-        <i class="fab fa-globe"></i>
+        <i class="fa fa-globe"></i>
         <span>Blog</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-        <i class="fab fa-instagram"></i>
+        <i class="fa fa-instagram"></i>
         <span>Instagram</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="mailto:carlos@academiaready.es" data-width="80">
-        <i class="far fa-envelope"></i>
+        <i class="fa fa-envelope"></i>
         <span>Mail</span>
         </a>
         </div>
@@ -174,27 +194,37 @@
         <div class="col-lg-4" data-animation="fadeInRight">
         <div class="team-member">
         <div class="team-image">
-        <img src="images/team/7.jpg">
+        <img src="images/quienessomos/fito.jpg">
         </div>
         <div class="team-desc">
         <h3>Fito Díaz</h3>
         <span>CMO y formador</span>
         <p>Lengua inglesa, refuerzo infantil y recursos humanos</p>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon list-icon-check list-icon-colored">
+            <li>Ingeniero industrial de profesión</li>
+            <li>Maker de espíritu</li>
+            <li>Músico aficionado</li>
+        </ul>
+        <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon">
+            <li><i style="color: #ffdf66" class="fa fa-trophy"></i>Aprende muy rápido</li>
+            <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta bromear con sus alumnos</li>
+            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
+        </ul>
         <div class="align-center">
         <a class="btn btn-xs btn-slide btn-light" href="#">
-        <i class="fab fa-facebook-f"></i>
+        <i class="fa fa-facebook-f"></i>
         <span>Facebook</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-        <i class="fab fa-twitter"></i>
+        <i class="fa fa-twitter"></i>
         <span>Twitter</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-        <i class="fab fa-instagram"></i>
+        <i class="fa fa-instagram"></i>
         <span>Instagram</span>
         </a>
         <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-        <i class="far fa-envelope"></i>
+        <i class="fa fa-envelope"></i>
         <span>Mail</span>
         </a>
         </div>
@@ -208,134 +238,132 @@
 </section>
 
 <section class="background-grey">
-<div class="container">
-<div class="heading-text heading-section text-center">
-<h2>NUESTRO EQUIPO</h2>
-<span class="lead">Sin ellos, no seríamos nada.</span>
-</div>
-<div class="row team-members team-members-shadow m-b-40">
-<div class="col-lg-3">
-<div class="team-member">
-<div class="team-image">
-<img src="images/team/6.jpg">
-</div>
-<div class="team-desc">
-<h3>Alba Jimenez</h3>
-<span>Software Developer</span>
-<p>The most happiest time of the day!. Praesent tristique hendrerit ex ut laoreet. </p>
-<div class="align-center">
-<a class="btn btn-xs btn-slide btn-light" href="#">
-<i class="fab fa-facebook-f"></i>
-<span>Facebook</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-<i class="fab fa-twitter"></i>
-<span>Twitter</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-<i class="fab fa-instagram"></i>
-<span>Instagram</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-<i class="far fa-envelope"></i>
-<span>Mail</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-3">
-<div class="team-member">
-<div class="team-image">
-<img src="images/team/7.jpg">
-</div>
-<div class="team-desc">
-<h3>Victor Martinez</h3>
-<span>Software Developer</span>
-<p>The most happiest time of the day!. Praesent tristique hendrerit ex ut laoreet. </p>
-<div class="align-center">
-<a class="btn btn-xs btn-slide btn-light" href="#">
-<i class="fab fa-facebook-f"></i>
-<span>Facebook</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-<i class="fab fa-twitter"></i>
-<span>Twitter</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-<i class="fab fa-instagram"></i>
-<span>Instagram</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-<i class="far fa-envelope"></i>
-<span>Mail</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-3">
-<div class="team-member">
-<div class="team-image">
-<img src="images/team/8.jpg">
-</div>
-<div class="team-desc">
-<h3>Lucia Cabañas</h3>
-<span>Software Developer</span>
-<p>The most happiest time of the day!. Praesent tristique hendrerit ex ut laoreet. </p>
-<div class="align-center">
-<a class="btn btn-xs btn-slide btn-light" href="#">
-<i class="fab fa-facebook-f"></i>
-<span>Facebook</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-<i class="fab fa-twitter"></i>
-<span>Twitter</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-<i class="fab fa-instagram"></i>
-<span>Instagram</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-<i class="far fa-envelope"></i>
-<span>Mail</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-3">
-<div class="team-member">
-<div class="team-image">
-<img src="images/team/9.jpg">
-</div>
-<div class="team-desc">
-<h3>Maria Nieto</h3>
-<span>Software Developer</span>
-<p>The most happiest time of the day!. Praesent tristique hendrerit ex ut laoreet. </p>
-<div class="align-center">
-<a class="btn btn-xs btn-slide btn-light" href="#">
-<i class="fab fa-facebook-f"></i>
-<span>Facebook</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-<i class="fab fa-twitter"></i>
-<span>Twitter</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-<i class="fab fa-instagram"></i>
-<span>Instagram</span>
-</a>
-<a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
-<i class="far fa-envelope"></i>
-<span>Mail</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+    <div class="container">
+    <div class="heading heading-center text-center heading-line">
+        <h2>Nuestro equipo</h2>
+        <span class="lead ">Los engranajes de nuestra maquinaria.</span>
+        <span class="lead"> Sin ellos seríamos otra academia más.</span>
+    </div>
+
+    <div class="row team-members team-members-shadow m-b-40">
+        <div class="col-lg-3">
+            <div class="team-member">
+            <div class="team-image">
+            <img src="images/quienessomos/maria.jpg">
+            </div>
+            <div class="team-desc">
+            <h3>Maria Nieto</h3>
+            <span>Software Developer</span>
+            <div class="align-center">
+            <a class="btn btn-xs btn-slide btn-light" href="#">
+            <i class="fa fa-facebook-f"></i>
+            <span>Facebook</span>
+            </a>
+            <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+            <i class="fa fa-twitter"></i>
+            <span>Twitter</span>
+            </a>
+            <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
+            <i class="fa fa-instagram"></i>
+            <span>Instagram</span>
+            </a>
+            <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
+            <i class="fa fa-envelope"></i>
+            <span>Mail</span>
+            </a>
+            </div>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-3">
+        <div class="team-member">
+        <div class="team-image">
+        <img src="images/quienessomos/Alba.jpg">
+        </div>
+        <div class="team-desc">
+        <h3>Alba Jimenez</h3>
+        <span>Profesora de Inglés</span>
+        <div class="align-center">
+        <a class="btn btn-xs btn-slide btn-light" href="#">
+        <i class="fa fa-facebook-f"></i>
+        <span>Facebook</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+        <i class="fa fa-twitter"></i>
+        <span>Twitter</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
+        <i class="fa fa-instagram"></i>
+        <span>Instagram</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
+        <i class="fa fa-envelope"></i>
+        <span>Mail</span>
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-3">
+        <div class="team-member">
+        <div class="team-image">
+        <img src="images/quienessomos/Lucia.jpg">
+        </div>
+        <div class="team-desc">
+        <h3>Lucia Cabañas</h3>
+        <span>Profesora refuerzo de Letras</span>
+        <div class="align-center">
+        <a class="btn btn-xs btn-slide btn-light" href="#">
+        <i class="fa fa-facebook-f"></i>
+        <span>Facebook</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+        <i class="fa fa-twitter"></i>
+        <span>Twitter</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
+        <i class="fa fa-instagram"></i>
+        <span>Instagram</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
+        <i class="fa fa-envelope"></i>
+        <span>Mail</span>
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-3">
+        <div class="team-member">
+        <div class="team-image">
+        <img src="images/quienessomos/Victor.jpg">
+        </div>
+        <div class="team-desc">
+        <h3>Victor Martinez</h3>
+        <span>Profesor de Inglés</span>
+        <div class="align-center">
+        <a class="btn btn-xs btn-slide btn-light" href="#">
+        <i class="fa fa-facebook-f"></i>
+        <span>Facebook</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+        <i class="fa fa-twitter"></i>
+        <span>Twitter</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
+        <i class="fa fa-instagram"></i>
+        <span>Instagram</span>
+        </a>
+        <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
+        <i class="fa fa-envelope"></i>
+        <span>Mail</span>
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    </div>
 </section>
 
 <? include("include/pie.php"); ?>

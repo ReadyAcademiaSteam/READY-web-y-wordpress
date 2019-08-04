@@ -1,6 +1,73 @@
-<footer id="footer" class="footer-light">
+<footer id="footer" class="footer-light ">
 
-  <div class="footer-content">
+  <div style="background-color:#1c1c1c" class="footer-content">
+
+    <div  class="container ">
+      <div class="row oscuro">
+      <div class="col-lg-5">
+
+      <div class="widget clearfix widget-newsletter">
+      <h4 class="widget-title"><i class="fa fa-envelope"></i> Apúntate a nuestro newsletter</h4>
+      <p>Noticias, ofertas exclusivas y muchas más ventajas.</p>
+      <form class="widget-subscribe-form p-r-40" action="include/subscribe-form.php" role="form" method="post" novalidate="novalidate">
+      <div class="input-group">
+      <input aria-required="true" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email" type="email">
+      <span class="input-group-btn">
+      <button type="submit" id="widget-subscribe-submit-button" class="btn"><i class="fa fa-paper-plane"></i></button>
+      </span> </div>
+      </form>
+      </div>
+    </div>
+      
+
+
+
+       <div class="col-lg-7">
+      <div class="row claro">
+      <div class="col-lg-4">
+      <div class="widget">
+      <div class="widget-title">SOBRE NOSOTROS</div>
+      <ul class="list">
+      <li><a href="#">Blog de Ready</a></li>
+      <li><a href="#">Blog de Carlos</a></li>
+      <li><a href="#">Quienes somos</a></li>
+      <li><a href="#">STEAM</a></li>      
+      </ul>
+      </div>
+      </div>
+      <div class="col-lg-4">
+      <div class="widget">
+      <div class="widget-title">SERVICIOS</div>
+      <ul class="list">
+      <li><a href="#">Refuerzo escolar</a></li>
+      <li><a href="#">Universitario</a></li>
+      <li><a href="#">Pruebas de acceso</a></li>
+      <li><a href="#">Clases particulares</a></li>
+      <li><a href="#">Inglés para niños</a></li>
+      <li><a href="#">Inglés para adultos</a></li>
+      <li><a href="#">Robótica educativa</a></li>
+      <li><a href="#">Programación de videojuegos</a></li>
+      <li><a href="#">Taller de inventores</a></li>
+      </ul>
+      </div>
+      </div>      
+      <div class="col-lg-4">
+      <div class="widget">
+      <div class="widget-title">Atención al cliente</div>
+      <ul class="list">
+      <li><a href="#">Contacto</a></li>
+      <li><a href="#">Preguntas rápidas</a></li>
+      <li><a href="#">Centro de sabiduría</a></li>
+      <li><a href="#">Chat directo</a></li>
+      </ul>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+    </div>
+</div>
+<div class="footer-content">
     <div class="container">
       <div class="row">
 
