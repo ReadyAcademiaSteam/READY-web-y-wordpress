@@ -1,0 +1,8 @@
+* Important Note
+
+If you're seeing this note it means you've downlaoded WPLMS 3.2 version or higher.
+
+With WPLMS 3.2 update child themes are now optional.
+Use the WPLMS Blank child theme that is wplmsblankchild.zip for all other child themes.
+
+The child themes now appear in the setup wizard of the main theme.

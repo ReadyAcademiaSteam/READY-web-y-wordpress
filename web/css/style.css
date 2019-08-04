@@ -58,9 +58,9 @@ ol,p,pre,table,ul{margin-bottom:1.85714286em}
 ul.bullets{list-style:inside}
 ol{list-style-type:upper-roman;list-style-position:inside}
 strong{font-weight:600}
-a{color:#5994aa}
-a:visited{color:#ed6d6b}
-a:active,a:focus,a:hover{text-decoration:none;outline:0;color:#ffdf66}
+a {color:#5994aa}
+	a:visited{color:#ed6d6b}
+	a:active,a:focus,a:hover{text-decoration:none;outline:0;color:#ffdf66}
 .font-pacifico{font-family:dancing script!important}
 .font-raleway a,.font-raleway h1,.font-raleway h2,.font-raleway h3,.font-raleway h4,.font-raleway h5,.font-raleway h6,h1.font-raleway,h2.font-raleway,h3.font-raleway,h4.font-raleway,h5.font-raleway,h6.font-raleway{font-family:Raleway!important;font-weight:100!important}
 .font-nothing-you-could-do,.font-nothing-you-could-do a,.font-nothing-you-could-do h1,.font-nothing-you-could-do h2,.font-nothing-you-could-do h3,.font-nothing-you-could-do h4,.font-nothing-you-could-do h5,.font-nothing-you-could-do h6,h1.font-nothing-you-could-do,h2.font-nothing-you-could-do,h3.font-nothing-you-could-do,h4.font-nothing-you-could-do,h5.font-nothing-you-could-do,h6.font-nothing-you-could-do{font-family:nothing you could do,cursive!important;font-weight:400!important}
@@ -1787,8 +1787,8 @@ img.mfp-img{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:
 .pager-fancy>li:first-child>span i,.pager-rounded>li:first-child>span i,.pager.pager-fancy>li:first-child>a i,.pager.pager-rounded>li:first-child>a i{margin-right:6px}
 .pager-modern{background-color:#fbfbfb;text-transform:uppercase;width:100%;margin:0}
 .pager-modern i{margin:0 10px}
-.pager-modern a,.pager-modern a:visited{color:#555}
-.pager-modern a:hover{color:#111}
+.pager-modern a,.pager-modern a:visited{color:#ed6d6b}
+.pager-modern a:hover{color:#ffdf66}
 .pager-modern a span{display:inline-block;height:60px;line-height:59px;padding:0 4%;-webkit-transition:all .2s ease-out 0s;transition:all .2s ease-out 0s}
 .pager-modern span:hover{background-color:#f6f6f6}
 .pager.pager-modern i{color:#222}
