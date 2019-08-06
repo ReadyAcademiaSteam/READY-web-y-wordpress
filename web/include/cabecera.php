@@ -50,17 +50,17 @@
               <li class="dropdown<? if($menu==2){ echo " current"; } ?>"> <a href="sobre-nosotros.php">Sobre nosotros</a>
                 <ul class="dropdown-menu">
                   <li><a href="quienes-somos.php"><i class="fa fa-group"></i>Quiénes somos</a></li>
-                  <li><a href="nuestro-concepto.php"><i class="fa fa-lightbulb-o"></i>Nuestro concepto</a></li>
-                  <li><a href="#"><i class="fa fa-keyboard-o"></i>Steam</a></li>
+                  <li><a href="#"><i class="fa fa-flask"></i>Qué es STEAM</a></li>
                 </ul>
               </li>
 
               <li class="dropdown<? if($menu==3){ echo " current"; } ?>"> <a href="#">Servicios</a>
                 <ul class="dropdown-menu">
-                  <li><a href="refuerzo-escolar.php"><i class="fa fa-graduation-cap"></i>Refuerzo escolar</a></li>
+                  <li><a href="refuerzo-escolar.php"><i class="fa fa-book"></i>Refuerzo escolar</a></li>
+                  <li><a href="refuerzo-escolar.php"><i class="fa fa-graduation-cap"></i>Refuerzo universitario</a></li>
                   <li><a href="ingles-para-ninos.php"><i class="fa fa-flag"></i>Inglés para niños</a></li>
                   <li><a href="ingles-para-adultos.php"><i class="fa fa-flag"></i>Inglés para adultos</a></li>
-                  <li><a href="robotica.php"><i class="fa fa-cogs"></i>Robótica</a></li>
+                  <li><a href="robotica.php"><i class="fa fa-cogs"></i>Robótica educativa</a></li>
                   <li><a href="programacion-videojuegos.php"><i class="fa fa-desktop"></i>Programación de videojuegos</a></li>
                   <li><a href="taller-inventores.php"><i class="fa fa-flask"></i>Taller de inventores</a></li>
                 </ul>

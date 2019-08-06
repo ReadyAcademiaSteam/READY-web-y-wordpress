@@ -31,7 +31,8 @@
       <li><a href="#">Blog de Ready</a></li>
       <li><a href="#">Blog de Carlos</a></li>
       <li><a href="#">Quienes somos</a></li>
-      <li><a href="#">STEAM</a></li>      
+      <li><a href="#">STEAM</a></li>   
+      <li><a href="#">Agenda de actividades</a></li>   
       </ul>
       </div>
       </div>

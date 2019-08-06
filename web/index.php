@@ -56,12 +56,12 @@
 
         <li data-index="rs-130" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>/images/slider1_180x100.jpg" data-rotate="0" data-saveperformance="off" data-title="Academia STEAM" data-description="">
 
-          <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider1.jpg" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>/images/slider1.jpg" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+          <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/slider1.jpg" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>/images/slider/slider1.jpg" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
           <div class="tp-caption text-center NotGeneric-Title   tp-resizeme" id="slide-130-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']" data-fontsize="['70','55','40','45']" data-lineheight="['70','70','70','50']" data-width="['none','none','none','462']" data-height="['none','none','none','124']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap;text-align:center;">BIENVENIDOS A READY
           </div>
 
-          <p class="tp-caption text-center thintext_dark tp-resizeme" id="slide-130-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-width="['946','879','736','421']" data-height="['none','none','61','69']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 946px; max-width: 946px; white-space: normal; font-weight: 500; color: rgba(255, 255, 255, 1.00);text-align:center;">Academia STEAM
+          <p class="tp-caption text-center thintext_dark tp-resizeme" id="slide-130-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-width="['946','879','736','421']" data-height="['none','none','61','69']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 946px; max-width: 946px; white-space: normal; font-weight: 500; color: rgba(255, 255, 255, 1.00);text-align:center;">Somos la primera academia con filosofía STEAM de la región.
           </p>
 
           <div class="tp-caption rev-scroll-btn" id="slide-130-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']" data-width="35" data-height="55" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;s:1000;" data-start="2000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"scrollbelow","offset":"0px"}]' data-basealign="slide" data-responsive_offset="off" data-responsive="off" style="z-index: 7; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;border-color:rgba(255, 255, 255, 0.50);border-style:solid;border-width:1px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
@@ -89,54 +89,22 @@
 
         </li>
 
-        <li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern-180x100.png" data-rotate="0" data-saveperformance="off" data-title="Robótica educativa" data-description="">
+        <li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern-180x100.png" data-rotate="0" data-saveperformance="off" data-title="Inglés para adultos" data-description="">
 
           <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/dummy.png" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
-          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-223','-136','-302','-122']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Robótica Educativa
+          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']"  data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Refuerzo y apoyo escolar
           </div>
 
-          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','5','3','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-131','-72','-201','-40']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">La robótica educativa permite al alumno descubrir por sí mismo la utilidad de los conocimientos.
+          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">Primaria, ESO y Bachillerato, profesorado cualificado.
           </div>
 
-          <div class="tp-caption tp-resizeme" id="slide-125-layer-17" data-x="['left','left','left','left']" data-hoffset="['479','479','290','36']" data-y="['top','top','top','top']" data-voffset="['417','417','445','438']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="1000" data-responsive_offset="on" style="z-index: 7;"><img src="images/slider2-1.png" alt="" width="600" height="600" data-ww="['312px','312px','312px','172.5']" data-hh="['312px','312px','312px','115']" data-lazyload="images/slider2-1.png" data-no-retina>
-          </div>
 
-        </li>
-				
-				
-				<li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/inventores-180x100.png" data-rotate="0" data-saveperformance="off" data-title="Taller de inventores" data-description="">
-
-          <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/dummy.png" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/slider_inventores.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-
-          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-223','-136','-302','-122']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Taller de inventores
-          </div>
-
-          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','5','3','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-131','-72','-201','-40']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">¡Cada semana aprenderán algo nuevo!
-          </div>
-
-          <div class="tp-caption tp-resizeme" id="slide-125-layer-17" data-x="['left','left','left','left']" data-hoffset="['479','479','290','36']" data-y="['top','top','top','top']" data-voffset="['417','417','445','438']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="1000" data-responsive_offset="on" style="z-index: 7;"><img src="images/slider3-1.png" alt="" width="600" height="600" data-ww="['312px','312px','312px','172.5']" data-hh="['312px','312px','312px','115']" data-lazyload="images/slider3-1.png" data-no-retina>
+          <div class="tp-caption text-center Fashion-BigDisplay   tp-resizeme" id="slide-130-layer-11" data-x="['center','center','center','center']" data-hoffset="['0','0','0','-3']" data-y="['top','top','top','top']" data-voffset="['500','476','476','408']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1290;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="2340" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap;"><a href="refuerzo-escolar.php" class="btn btn-outline btn-dark">Saber más</a>
           </div>
 
         </li>
 				
-				
-				
-				
-				<li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/evau_180x100.png" data-rotate="0" data-saveperformance="off" data-title="Taller de inventores" data-description="">
-
-          <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/dummy.png" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/slider_inventores.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-
-          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-223','-136','-302','-122']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Taller de inventores
-          </div>
-
-          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','5','3','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-131','-72','-201','-40']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">¡Cada semana aprenderán algo nuevo!
-          </div>
-
-          <div class="tp-caption tp-resizeme" id="slide-125-layer-17" data-x="['left','left','left','left']" data-hoffset="['479','479','290','36']" data-y="['top','top','top','top']" data-voffset="['417','417','445','438']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="1000" data-responsive_offset="on" style="z-index: 7;"><img src="images/slider3-1.png" alt="" width="600" height="600" data-ww="['312px','312px','312px','172.5']" data-hh="['312px','312px','312px','115']" data-lazyload="images/slider3-1.png" data-no-retina>
-          </div>
-
-        </li>
 				
 				
 				
@@ -186,8 +154,39 @@
 
 <section>
   <div class="container">
-
+    <h1 class="text-center">Bienvenidos a READY Academia STEAM</h1>
     <div class="hr-title hr-long center"><abbr>¿En qué te podemos ayudar?</abbr></div>
+    <div class="row">
+    <div class="col-lg-3">
+    <div class="icon-box effect small fancy">
+    <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-edit"></i></a> </div>
+    <h3>Matrícula gratis</h3>
+    <p>No pagas matrícula al venir con nosotros. ¡Queremos darte una alegría nada más empezar! &#x1F609;</p>
+    </div>
+    </div>
+    <div class="col-lg-3">
+    <div class="icon-box effect small fancy">
+    <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-calendar"></i></a> </div>
+    <h3>Prueba una clase</h3>
+    <p>Y antes de matricularte, ¿Porqué no pruebas si te gusta? Así, ¡todos contentos!&x1F604;</p>
+    </div>
+    </div>
+    <div class="col-lg-3">
+    <div class="icon-box effect small fancy">
+    <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-laptop"></i></a> </div>
+    <h3>Clases online</h3>
+    <p>¿Necesitas que te ayudemos pero no puedes venir a nuestro centro? ¡Prueba nuestras clases particulares online!</p>
+    </div>
+</div>
+  <div class="col-lg-3">
+    <div class="icon-box effect small fancy">
+    <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-code"></i></a> </div>
+    <h3>A la última</h3>
+    <p>Nos encanta la tecnología, por lo que estamos contínuamente actualizados en herramientas e instalaciones para nuestras clases</p>
+    </div>
+</div>
+  </div>
+
 
     <div class="row team-members team-members-left team-members-shadow m-b-40">
 
@@ -243,6 +242,32 @@
   </div>
 </section>
 
+
+
+<section class="p-b-60">
+  <div class="container">
+
+    <div class="heading heading-center m-b-40" data-animation="fadeInUp">
+      <h2>Somos la primera academia STEAM de la región.</h2>
+      <span class="lead">Refuerzo escolar. Robótica educativa. Programación creativa. Inglés para niños y adultos. Talleres steam...</span>
+    </div>
+
+    <div class="row">
+      <div class="col-md-8 text-right">
+        <p class="lead">Somos <strong><a href="https://www.academiaready.es">READY Academia STEAM</a></strong>. Una nueva academia en Albacete formada por profesores, ingenieros, psicólogos y profesionales de diferentes campos.</p>
+        <p class="lead">El centro de estudios READY nace en Albacete en el verano de 2018. Nuestra principal motivación radica en que creemos firmemente que a través de nuestra filosofía podemos actualizar el concepto de academia tradicional, proporcionando resultados claros y visibles en el rendimiento de nuestros estudiantes.</p>
+        <h3>Nosotros SÍ somos STEAM</h3>
+        <p class="lead">El centro de estudios READY es el primero de toda la región en aplicar la filosofía STEAM. ¡Y, sí!. <strong><a href="que-es-steam.php">Qué es y qué significa STEAM</a></strong> es una de las cosas que más nos preguntan. <em>STEAM es el uso y la integración de disciplinas científicas, tecnológicas, ingeniería, artes y matemáticas en el diseño de un modelo de enseñanza y aprendizaje efectivo y agradable para el estudiante.</em></p>
+        <p class="lead">A través de materias como nuestros <a href="">talleres de robótica en Albacete</a> o <a href="">cursos de programación de videojuegos</a>, en READY Academia STEAM conseguimos que los alumnos apliquen de una forma lúdica y satisfactoria conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender. Con nosotros no sólo los comprenden sino que, aún más, los disfrutan.</p>
+      </div>
+      <div class="col-md-4">
+        <img alt="" src="images/index_steam.jpg" class="img-responsive">
+      </div>
+    </div>
+
+  </div>
+</section>
+
 <section class="content background-grey">
   <div class="container">
 
@@ -286,30 +311,6 @@
         </div>
       <? } ?>
 
-    </div>
-
-  </div>
-</section>
-
-<section class="p-b-60">
-  <div class="container">
-
-    <div class="heading heading-center m-b-40" data-animation="fadeInUp">
-      <h2>READY ACADEMIA STEAM</h2>
-      <span class="lead">Refuerzo escolar. Robótica educativa. Programación creativa. Inglés para niños y adultos.</span>
-    </div>
-
-    <div class="row">
-      <div class="col-md-8 text-right">
-        <p class="lead">Somos Ready Academia Steam. Una nueva academia en Albacete formada por profesores, ingenieros, psicólogos y profesionales de diferentes campos.</p>
-        <p class="lead">El centro de estudios READY nace en Albacete en el verano de 2018. Nuestra principal motivación radica en que creemos firmemente que a través de nuestra filosofía podemos actualizar el concepto de academia tradicional, proporcionando resultados claros y visibles en el rendimiento de nuestros estudiantes.</p>
-        <h3>Nosotros SÍ somos STEAM</h3>
-        <p class="lead">El centro de estudios READY es el primero de toda la región en aplicar la filosofía STEAM. ¡Y, sí!. Qué es y qué significa STEAM es una de las cosas que más nos preguntan. STEAM es el uso y la integración de disciplinas científicas, tecnológicas, ingeniería, artes y matemáticas en el diseño de un modelo de enseñanza y aprendizaje efectivo y agradable para el estudiante.</p>
-        <p class="lead">A través de materias como nuestros talleres de robótica o programación, en centro de estudios READY conseguimos que los alumnos apliquen de una forma lúdica y satisfactoria conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender y desde luego carentes de utilidad. En Ready Academia STEAM podemos garantizar que no sólo los comprenden sino que, aún más, los disfrutan.</p>
-      </div>
-      <div class="col-md-4">
-        <img alt="" src="images/index_steam.jpg" class="img-responsive">
-      </div>
     </div>
 
   </div>
