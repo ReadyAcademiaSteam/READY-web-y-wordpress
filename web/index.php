@@ -89,14 +89,14 @@
 
         </li>
 
-        <li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern-180x100.png" data-rotate="0" data-saveperformance="off" data-title="Inglés para adultos" data-description="">
+        <li data-index="rs-125" data-transition="zoomout" data-slotamount="default" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern-180x100.png" data-rotate="0" data-saveperformance="off" data-title="Nosotros si somos STEAM" data-description="">
 
           <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/dummy.png" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
-          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']"  data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Refuerzo y apoyo escolar
+          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']"  data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Nosotros sí somos <strong>STEAM</strong>
           </div>
 
-          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">Primaria, ESO y Bachillerato, profesorado cualificado.
+          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">Somos un nuevo concepto de academia.
           </div>
 
 
@@ -193,11 +193,11 @@
       <div class="col-md-6">
         <div class="team-member">
           <div class="team-image">
-            <img src="images/index_3.jpg">
+            <img src="images/ingles_ninos.jpg">
           </div>
           <div class="team-desc">
             <h3>Inglés para niños</h3>
-            <p>STARTERS, MOVERS, FLYERS... Clases gamificadas, ¡no querran salir de clase!</p>
+            <p>Nuestros grupos de inglés. Reducidos y gamificados. ¡No querrán salir de clase!</p>
           </div>
         </div>
       </div>
@@ -205,7 +205,7 @@
       <div class="col-md-6">
         <div class="team-member">
           <div class="team-image">
-            <img src="images/index_4.png">
+            <img src="images/ingles_adultos.jpg">
           </div>
           <div class="team-desc">
             <h3>Inglés para adultos e inglés for schools</h3>
@@ -217,11 +217,11 @@
       <div class="col-md-6">
         <div class="team-member">
           <div class="team-image">
-            <img src="images/index_1.jpg">
+            <img src="images/refuerzo_escolar.jpg">
           </div>
           <div class="team-desc" style="padding-bottom:0;">
-            <h3>Refuerzo y apoyo escolar</h3>
-            <p>Clases de refuerzo para primaria, secundaria, bachillerato... os ayudamos con las tareas diarias, a mejorar vuestras técnicas de estudio, ¡y a aprobar los exámenes!</p>
+            <h3>Refuerzo y apoyo</h3>
+            <p>Clases de refuerzo para primaria, secundaria, bachillerato, universidad... os ayudamos con las tareas diarias, a mejorar vuestras técnicas de estudio, ¡y a aprobar los exámenes!</p>
           </div>
         </div>
       </div>
@@ -229,11 +229,35 @@
       <div class="col-md-6">
         <div class="team-member">
           <div class="team-image">
-            <img src="images/index_2.jpg">
+            <img src="images/evau.jpg">
+          </div>
+          <div class="team-desc" style="padding-bottom:0;">
+            <h3>Proyecto Evau</h3>
+            <p>La Evau es su primer gran reto. Por eso apostamos por el <a href="https://academiaready.es/blog/16/superar-la-evau-sin-estres-ni-miedos">Proyecto Evau</a>. Talleres para afrontar los exámenes de manera efectiva y sin miedos ni agobios.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="team-member">
+          <div class="team-image">
+            <img src="images/robotica.jpg">
           </div>
           <div class="team-desc">
-            <h3>Robótica y programación</h3>
+            <h3>Robótica educativa y programación de videojuegos</h3>
             <p>Aprenderán a programar, montarán sus propios robóts y no pararán de crear. Divertirse, ¡pero siempre aprendiendo!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="team-member">
+          <div class="team-image">
+            <img src="images/steam.jpg">
+          </div>
+          <div class="team-desc">
+            <h3>Talleres y actividades STEAM</h3>
+            <p>Hacemos talleres STEAM con los que aprenderán ciencias, tecnología, ingeniería, artes y matemáticas. Una experiencia divertidisima.</p>
           </div>
         </div>
       </div>
@@ -258,7 +282,7 @@
         <p class="lead">El centro de estudios READY nace en Albacete en el verano de 2018. Nuestra principal motivación radica en que creemos firmemente que a través de nuestra filosofía podemos actualizar el concepto de academia tradicional, proporcionando resultados claros y visibles en el rendimiento de nuestros estudiantes.</p>
         <h3>Nosotros SÍ somos STEAM</h3>
         <p class="lead">El centro de estudios READY es el primero de toda la región en aplicar la filosofía STEAM. ¡Y, sí!. <strong><a href="que-es-steam.php">Qué es y qué significa STEAM</a></strong> es una de las cosas que más nos preguntan. <em>STEAM es el uso y la integración de disciplinas científicas, tecnológicas, ingeniería, artes y matemáticas en el diseño de un modelo de enseñanza y aprendizaje efectivo y agradable para el estudiante.</em></p>
-        <p class="lead">A través de materias como nuestros <a href="">talleres de robótica en Albacete</a> o <a href="">cursos de programación de videojuegos</a>, en READY Academia STEAM conseguimos que los alumnos apliquen de una forma lúdica y satisfactoria conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender. Con nosotros no sólo los comprenden sino que, aún más, los disfrutan.</p>
+        <p class="lead">A través de nuestros <a href="">cursos de robótica educativa en Albacete</a>, nuestros <a href="">cursos de programación de videojuegos</a>, y de nuestos <a href="">Talleres STEAM para niños</a> en READY Academia STEAM conseguimos que los alumnos apliquen de una forma lúdica y satisfactoria conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender. Con nosotros no sólo los comprenden sino que, aún más, los disfrutan.</p>
       </div>
       <div class="col-md-4">
         <img alt="" src="images/index_steam.jpg" class="img-responsive">
