@@ -45,7 +45,11 @@
 <? include("include/cabecera.php"); ?>
 
 <section id="page-title" class="page-title-center text-light" data-vide-bg="video/explore/explore" data-vide-options="position: 0% 50%">
-    <div id="particles-js" class="particles"><canvas class="particles-js-canvas-el" width="375" height="418" style="width: 100%; height: 100%;"></canvas></div>
+    <div style="background-color: #ed6d6b; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; ">
+        <canvas id="que-es-steam-canvas" style="margin: auto; position: absolute; z-index: -1;  visibility: visible; opacity: 0.4; width: 100%;">
+        
+        </canvas>
+    </div>
     <div class="container">
         <div class="breadcrumb">
             <ul>
@@ -125,6 +129,21 @@
 
         
     </div>
+    <div class="call-to-action p-t-100 p-b-100  mb-0 call-to-action-dark">
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-10">
+                <h3>
+                ¿Quieres estar informado/a de las <span>novedades y ofertas</span> de READY?
+                </h3>
+                <p>
+                Accede al instante a descuentos, regalos y ofertas exclusivas.
+                </p>
+            </div>
+            <div class="col-lg-2"><a class="btn" href="#">¡Suscribete!</a></div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <? include("include/pie.php"); ?>
@@ -136,6 +155,7 @@
 <script src="js/jquery.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/functions.js"></script>
+<script src="js/queessteam.js"></script>
 
 
 

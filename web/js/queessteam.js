@@ -9,7 +9,7 @@
   var properties = {
     cols: 64,
     rows: 32,
-    color: "#ffdf66",
+    color: "#5994aa",
     altColor: "#ff0000",
     sLength: 0,
     activeAmt: 0.25,
@@ -17,7 +17,7 @@
   };
 
   var init = function() {
-    canvas = document.getElementById('quienes-somos-canvas');
+    canvas = document.getElementById('que-es-steam-canvas');
 
     canvas.width = canvas.offsetWidth;
     canvas.height = (canvas.offsetWidth / properties.cols * properties.rows);

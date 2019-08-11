@@ -35,7 +35,7 @@
 <link rel="apple-touch-icon" sizes="72x72" href="imagenes/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="imagenes/apple-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="144x144" href="imagenes/apple-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#f5f5f5">
 
 </head>
 <body data-icon="12">
@@ -45,9 +45,9 @@
 <? include("include/cabecera.php"); ?>
 
 <section id="page-title" class="page-title-center text-light" data-vide-bg="video/explore/explore" data-vide-options="position: 0% 50%">
-    <div style="position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; background-size: cover; background-color: #1c1c1c; background-repeat: no-repeat; background-position: 0% 50%; background-image: none;">
-        <canvas id="quienes-somos-canvas" class="quienes-somos">
-            
+    <div style="background-color: #5994aa; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; ">
+        <canvas id="quienes-somos-canvas" style="margin: auto; position: absolute; z-index: -1;  visibility: visible; opacity: 0.4; width: 100%;">
+        
         </canvas>
     </div>
     <div class="container">
@@ -70,13 +70,24 @@
     <div class="row">
     <div class="col-lg-3">
     <div class="heading-text heading-section">
-    <h2>LA COMPAÑÍA</h2>
+    <h2>Quienes somos</h2>
     </div>
     </div>
     <div class="col-lg-9">
     <div class="row">
-    <div class="col-lg-6">The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, <br> <br> facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. </div>
-    <div class="col-lg-6">Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor. <br> <br>The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volut.</div>
+    <div class="col-lg-6">
+        <p>No somos otra academia de inglés en Albacete.</p>
+        <p>No somos otra academia de refuerzo y de apoyo escolar.</p>
+        <p>No somos otra empresa orientada a la robótica educativa y a la programación de videojuegos.</p>
+        <p><a href="https://www.academiaready.es">READY Academia STEAM</a> es el resultado de varios años de experiencia de distintos profesionales albacetenses de la docencia en distintos centros y partiendo de otras perspectivas y enfoques de la enseñanza.</p>
+        <p>Somos un grupo de locos ingenieros, maestros, filólogos, físicos y hasta titulados superiores en música y arte dramático. De ahí nuestra aplicación de la filosofía principal del centro, STEAM.</p>
+        <p>En READY Academia STEAM creemos en la creatividad y fomentamos el descubrimiento y el uso de las habilidades, capacidades y talentos de cada uno de nuestros estudiantes para diseñar y definir una única, personalizada y propia manera de enfocar el estudio.</p>
+</div>
+    <div class="col-lg-6">
+        <p>Nuestro concepto en el refuerzo escolar es muy parecido. READY Academia STEAM tiene en cuenta la frustración y ansiedad que en ocasiones el estudiante siente cuando no es capaz de alcanzar unos resultados impuestos como obligatorios en materias cuya necesidad y sentido no entiende. Con nuestro sistema y nuestra atención, podemos garantizar que no sólo los comprenden sino que, aún más, los disfrutan.</p>
+        <p>Además de ayudar a nuestros alumnos con los baches que puedan encontrar en sus estudios, realizamos cursos de <a href="servicios/refuerzo-escolar.php">robótica</a>, programación y un largo etcétera. Materias diferentes y con las que introducirles en las nuevas tecnologías, en la robótica educativa y en la programación que será esencial en el futuro más cercano. Conseguimos que los alumnos apliquen, de una forma lúdica y satisfactoria, conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender para montar robots y programarlos, o crear sus propios videojuegos y enseñarlos orgullosos a sus amigos.</p>
+
+</div>
     </div></div>
     </div>
     </div>
@@ -367,6 +378,21 @@
         </div>
         </div>
     </div>
+    <div class="call-to-action p-t-100 p-b-100  mb-0 call-to-action-dark">
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-10">
+                <h3>
+                ¿Quieres estar informado/a de las <span>novedades y ofertas</span> de READY?
+                </h3>
+                <p>
+                Accede al instante a descuentos, regalos y ofertas exclusivas.
+                </p>
+            </div>
+            <div class="col-lg-2"><a class="btn" href="#">¡Suscribete!</a></div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <? include("include/pie.php"); ?>
@@ -378,6 +404,7 @@
 <script src="js/jquery.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/functions.js"></script>
+<script src="js/quienessomos.js"></script>
 
 <? include("include/comun.php"); ?>
 

@@ -23,10 +23,12 @@
 
 <title><? echo titulo; ?></title>
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
 <link href="css/plugins.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/style-hijo.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
 
 <link rel="icon" href="imagenes/favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="imagenes/apple-icon-57x57.png">
@@ -42,10 +44,14 @@
 
 <? include("include/cabecera.php"); ?>
 
-<section id="page-title" class="page-title-center background-overlay-dark text-light" style="background-image:url(images/parallax/2.jpg);">
+<section id="page-title" class="page-title-center background-overlay-dark text-light">
+  <div style="position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; ">
+        <canvas id="canvas-videojuegos" style="margin: auto; position: absolute; z-index: -1;  visibility: visible; opacity: 0.9; width: 100%;">        
+        </canvas>
+    </div>
   <div class="container">
     <div class="page-title">
-      <h1>Programación de Videojuegos</h1>
+      <h1 style="text-shadow: 2px 2px 2px #ed6d6b;">Programación de Videojuegos</h1>
     </div>
     <div class="breadcrumb">
       <ul>
@@ -89,6 +95,8 @@
 <script src="js/jquery.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/functions.js"></script>
+<script src="js/videojuegos.js"></script>
+<script>init();</script>
 
 <? include("include/comun.php"); ?>
 
