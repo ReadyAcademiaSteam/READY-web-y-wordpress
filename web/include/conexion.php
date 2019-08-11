@@ -1,6 +1,6 @@
 <?
 $nombre_BD = "academiaready_bdd";
-$servidor_BD = "localhost:3306";
+$servidor_BD = "localhost:8889";
 $usuario_BD = "root";
 $password_BD = "root";
 

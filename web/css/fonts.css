@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Pixelar';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Pixelar-Regular.otf'); /* IE9 Compat Modes */
+  src: local('Pixelar'), local('Pixelar'),
+       url('../fonts/Pixelar-Regular.otf') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Pixelar-Regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/Pixelar-Regular.ttf') format('truetype'); /* Safari, Android, iOS */ 
+}

@@ -1,0 +1,91 @@
+
+/* header */
+
+#mainMenu nav>ul>li {
+	padding-top:20px;
+	height: 90px;
+}
+
+/* fonts */
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.steam-detail {
+	font-size: 2em;
+}
+
+h1 {
+	font-face: 'Source Sans Pro', sans-serif;
+}
+
+#page-title, .page-title {
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+#page-title .page-title>h1 {
+		
+	font-family: 'Pixelar', sans-serif;
+	font-size: 5rem;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+
+#page-title .page-title>span, #page-title.page-title-classic .page-title>span {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+
+.tp-caption.NotGeneric-Title, .NotGeneric-Title {
+	
+	font-family: 'Pixelar', sans-serif;
+	font-size: 2rem; !important
+}
+
+.tp-caption.thintext_dark, .thintext_dark, .tp-caption.Fashion-BigDisplay, .Fashion-BigDisplay, {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.icon-box h3, .icon-box h5, .icon-box p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.heading-4 h1, .heading-4 h2, .heading-4 h3, .heading>h1, .heading>h2
+
+.tp-caption.thintext_dark, .thintext_dark {
+	font-size: 4rem;
+}
+
+.tp-caption.Fashion-BigDisplay, .Fashion-BigDisplay {
+	font-size: 5rem;
+}
+
+
+.tp-caption.thintext_dark, .thintext_dark {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.tp-caption.Fashion-BigDisplay, .Fashion-BigDisplay {	
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.letras-steam {
+	font-family: 'Pixelar', sans-serif;
+	font-size: 10rem;
+	margin: 0 !important;
+	color: #f5f5f5;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+
+.letras-steam-en, .letras-steam-es {
+	font-family: 'Pixelar', sans-serif;
+	font-size: 2em;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+}
+
+.quienes-somos {
+  width: 100%;
+  height: 100%;
+}

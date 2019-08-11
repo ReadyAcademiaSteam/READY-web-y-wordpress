@@ -23,10 +23,12 @@
 
 <title>Quiénes somos - <? echo titulo; ?></title>
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
 <link href="css/plugins.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/style-hijo.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
 
 <link rel="icon" href="imagenes/favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="imagenes/apple-icon-57x57.png">
@@ -44,8 +46,9 @@
 
 <section id="page-title" class="page-title-center text-light" data-vide-bg="video/explore/explore" data-vide-options="position: 0% 50%">
     <div style="position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; background-size: cover; background-color: #1c1c1c; background-repeat: no-repeat; background-position: 0% 50%; background-image: none;">
-        <video autoplay="" loop="" muted="" style="margin: auto; position: absolute; z-index: -1; top: 50%; left: 0%; transform: translate(0%, -50%); visibility: visible; opacity: 0.6; width: 100%;">
-        <source src="images/slider/quienes-somos-video.mp4" type="video/mp4">
+        <canvas id="quienes-somos-canvas" class="quienes-somos">
+            
+        </canvas>
     </div>
     <div class="container">
         <div class="breadcrumb">
@@ -96,7 +99,7 @@
         <div style="background-color:#ffdf66" class="col-lg-4">
         <h1 class="text-lg text-uppercase">03.</h1>
         <h3>Idiomas</h3>
-        <span data-animation="fadeIn" style="animation-delay: 0.5s">Vivimos en un mundo multicultural y plurilingue. Es esencial dominar el inglés desde bien pequeño. Tenemos una amplia oferta de cursos de inglés, para todos los niveles. ¿Nos acompañas?</span>
+        <span data-animation="fadeIn" style="animation-delay: 0.5s">Vivimos en un mundo multicultural y plurilingue. Es esencial dominar el inglés desde bien pequeño. Tenemos una amplia oferta de cursos de inglés, para todos los niveles. ¿Nos acompañas? ¡Queremos que seas uno/a más!</span>
         </div>
     </div>
 </section>

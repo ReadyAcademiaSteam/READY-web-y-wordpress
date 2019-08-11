@@ -47,10 +47,10 @@
 
               <li<? if($menu==1){ echo " class='current'"; } ?>><a href="https://<? echo dominio; ?>/<? echo carpeta; ?>">Inicio</a></li>
 
-              <li class="dropdown<? if($menu==2){ echo " current"; } ?>"> <a href="sobre-nosotros.php">Sobre nosotros</a>
+              <li class="dropdown<? if($menu==2){ echo " current"; } ?>"> <a href="#">Sobre nosotros</a>
                 <ul class="dropdown-menu">
                   <li><a href="quienes-somos.php"><i class="fa fa-group"></i>Quiénes somos</a></li>
-                  <li><a href="#"><i class="fa fa-flask"></i>Qué es STEAM</a></li>
+                  <li><a href="que-es-steam.php"><i class="fa fa-flask"></i>Qué es STEAM</a></li>
                 </ul>
               </li>
 

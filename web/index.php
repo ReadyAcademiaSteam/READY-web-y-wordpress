@@ -25,11 +25,13 @@
 
 <title><? echo titulo; ?> - Refuerzo escolar, inglés, robótica educativa, talleres STEAM.</title>
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<!-- <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />-->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
 <link href="css/plugins.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/style-hijo.css" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
 
 
 <link rel="icon" href="imagenes/favicon.ico">
@@ -58,10 +60,10 @@
 
           <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/slider1.jpg" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>/images/slider/slider1.jpg" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="110" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 
-          <div class="tp-caption text-center NotGeneric-Title   tp-resizeme" id="slide-130-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']" data-fontsize="['70','55','40','45']" data-lineheight="['70','70','70','50']" data-width="['none','none','none','462']" data-height="['none','none','none','124']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap;text-align:center;">BIENVENIDOS A READY
+          <div class="tp-caption text-center NotGeneric-Title   tp-resizeme" id="slide-130-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']" data-fontsize="['100','80','80','75']" data-lineheight="['70','70','70','50']" data-width="['none','none','none','462']" data-height="['none','none','none','124']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap;text-align:center; text-shadow: 2px 2px 1px #1c1c1c">BIENVENIDOS A READY
           </div>
 
-          <p class="tp-caption text-center thintext_dark tp-resizeme" id="slide-130-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-width="['946','879','736','421']" data-height="['none','none','61','69']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 946px; max-width: 946px; white-space: normal; font-weight: 500; color: rgba(255, 255, 255, 1.00);text-align:center;">Somos la primera academia con filosofía STEAM de la región.
+          <p class="tp-caption text-center thintext_dark tp-resizeme" id="slide-130-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['32','26','26','26']" data-lineheight="['26','20','20','20']" data-width="['946','879','736','421']" data-height="['none','none','61','69']" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 946px; max-width: 946px; white-space: normal; font-weight: 500; color: rgba(255, 255, 255, 1.00);text-align:center;">Somos la primera academia con filosofía STEAM de la región.
           </p>
 
           <div class="tp-caption rev-scroll-btn" id="slide-130-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']" data-width="35" data-height="55" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;s:1000;" data-start="2000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"scrollbelow","offset":"0px"}]' data-basealign="slide" data-responsive_offset="off" data-responsive="off" style="z-index: 7; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;border-color:rgba(255, 255, 255, 0.50);border-style:solid;border-width:1px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
@@ -93,10 +95,10 @@
 
           <img src="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/dummy.png" alt="" width="1920" height="1080" data-lazyload="https://<? echo dominio; ?>/<? echo carpeta; ?>images/slider/pattern.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
-          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']"  data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: rgba(17, 17, 17, 1.00);">Nosotros sí somos <strong>STEAM</strong>
+          <div class="tp-caption text-center NotGeneric-Title tp-resizeme" id="slide-125-layer-1" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-54','0','-90','-92']"  data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; color: #1c1c1c; text-shadow: 2px 2px 1px #f5f5f5">Nosotros sí somos STEAM
           </div>
 
-          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['16','13','13','13']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">Somos un nuevo concepto de academia.
+          <div class="tp-caption text-center thintext_dark   tp-resizeme" id="slide-125-layer-4" data-x="['center','center','center','center']" data-hoffset="['5','5','-5','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','52','-33','3']" data-fontsize="['32','26','26','26']" data-lineheight="['26','20','20','20']" data-color="['rgba(0, 0, 0, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)','rgba(17, 17, 17, 1.00)']" data-width="['943','none','673','445']" data-height="['61','none','61','none']" data-whitespace="['normal','nowrap','normal','normal']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1700" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 943px; max-width: 943px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 500; color: rgba(0, 0, 0, 1.00);text-align:center;">Somos un nuevo concepto de academia.
           </div>
 
 
@@ -154,7 +156,7 @@
 
 <section>
   <div class="container">
-    <h1 class="text-center">Bienvenidos a READY Academia STEAM</h1>
+    <h1 class="text-center titulo">Bienvenidos a READY Academia STEAM</h1>
     <div class="hr-title hr-long center"><abbr>¿En qué te podemos ayudar?</abbr></div>
     <div class="row">
     <div class="col-lg-3">
@@ -190,7 +192,7 @@
 
     <div class="row team-members team-members-left team-members-shadow m-b-40">
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/ingles_ninos.jpg">
@@ -202,7 +204,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/ingles_adultos.jpg">
@@ -214,7 +216,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/refuerzo_escolar.jpg">
@@ -226,7 +228,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/evau.jpg">
@@ -238,7 +240,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/robotica.jpg">
@@ -250,7 +252,7 @@
         </div>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-6 col-lg-6">
         <div class="team-member">
           <div class="team-image">
             <img src="images/steam.jpg">
@@ -350,9 +352,13 @@
 <script src="js/plugins.js"></script>
 <script src="js/functions.js"></script>
 
+<!-- CSS -->
 <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/settings.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/layers.css">
 <link rel="stylesheet" type="text/css" href="js/plugins/revolution/css/navigation.css">
+<link  rel="stylesheet" type="text/css" href="css/style-hijo.css">
+
+<!-- JS -->
 <script type="text/javascript" src="js/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="js/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
 <script type="text/javascript" src="js/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>

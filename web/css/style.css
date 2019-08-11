@@ -31,7 +31,7 @@ html{overflow-x:hidden;font-size:87.5%}
 @media all and (max-width:768px){html{font-size:81.25%}
 }
 body{font-size:1em;line-height:1.65714286em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:open sans,Helvetica,Arial,sans-serif;color:#565656;font-weight:400}
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:open sans,Helvetica,Arial,sans-serif;color:#252525;margin:0;font-weight:300;letter-spacing:1px}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:'Source Sans Pro';color:#1c1c1c;margin:0;font-weight:300;letter-spacing:1px}
 .h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small,h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:100}
 .h2,.h3,.h4,.h5,.h6,h2,h3,h4,h5,h6{font-weight:600}
 .h1,h1{font-size:3.14285714em;line-height:1.31818182em}
@@ -47,13 +47,13 @@ body{font-size:1em;line-height:1.65714286em;-webkit-font-smoothing:antialiased;-
 .h6,h6{font-size:.85714286em;line-height:2.16666667em}
 .h6:not(:last-child),h6:not(:last-child){margin-bottom:.500842105263158em}
 .lead{font-size:1.35714286em;line-height:1.68421053em}
-@media all and (max-width:767px){.h1,h1{font-size:2.35714286em;line-height:1.36363636em}
+@media all and (max-width:767px){.h1,h1{font-size:3.2em;line-height:1.36363636em}
 .h2,h2{font-size:1.78571429em;line-height:1.5em}
 .h3,.lead,h3{font-size:1.35714286em}
 .h3,h3{line-height:1.85714286em}
 .lead{line-height:1.68421053em}
 }
-p{font-family:open sans;font-size:14px;font-style:normal;font-weight:400;text-transform:none;line-height:28px;letter-spacing:0;color:#7b7b7b}
+p{font-family:'Source Sans Pro';font-size:14px;font-style:normal;font-weight:400;text-transform:none;line-height:28px;letter-spacing:0;color:#7b7b7b}
 ol,p,pre,table,ul{margin-bottom:1.85714286em}
 ul.bullets{list-style:inside}
 ol{list-style-type:upper-roman;list-style-position:inside}
@@ -67,7 +67,7 @@ a {color:#5994aa}
 .font-herr-von-muellerhoff,.font-herr-von-muellerhoff a,.font-herr-von-muellerhoff h1,.font-herr-von-muellerhoff h2,.font-herr-von-muellerhoff h3,.font-herr-von-muellerhoff h4,.font-herr-von-muellerhoff h5,.font-herr-von-muellerhoff h6,h1.font-herr-von-muellerhoff,h2.font-herr-von-muellerhoff,h3.font-herr-von-muellerhoff,h4.font-herr-von-muellerhoff,h5.font-herr-von-muellerhoff,h6.font-herr-von-muellerhoff{font-family:herr von muellerhoff,cursive!important;font-weight:400!important}
 .font-cedarville,.font-cedarville a,.font-cedarville h1,.font-cedarville h2,.font-cedarville h3,.font-cedarville h4,.font-cedarville h5,.font-cedarville h6,h1.font-cedarville,h2.font-cedarville,h3.font-cedarville,h4.font-cedarville,h5.font-cedarville,h6.font-cedarville{font-family:'cedarville cursive',cursive}
 .font-parisienne,.font-parisienne a,.font-parisienne h1,.font-parisienne h2,.font-parisienne h3,.font-parisienne h4,.font-parisienne h5,.font-parisienne h6,h1.font-parisienne,h2.font-parisienne,h3.font-parisienne,h4.font-parisienne,h5.font-parisienne,h6.font-parisienne{font-family:Parisienne,cursive}
-.heading-4 h1,.heading-4 h2,.heading-4 h3,.heading>h1,.heading>h2{font-family:Nunito,Helvetica,Arial,sans-serif}
+.heading-4 h1,.heading-4 h2,.heading-4 h3,.heading>h1,.heading>h2{font-family:'Source Sans Pro',sans-serif}
 .heading-1 h1{margin-bottom:40px;font-size:70px;line-height:90px;color:#000;font-weight:600}
 .heading-1 p{padding-left:40px;padding-right:40px;font-size:34px;font-weight:300;color:#000;line-height:50px;margin-bottom:40px}
 .heading-1.text-left p,.heading-1.text-right p,.heading-2.text-left p,.heading-2.text-right p,.heading-3.text-left p,.heading-3.text-right p,.heading-4.text-left p,.heading-4.text-right p{padding:0}
@@ -84,7 +84,7 @@ a {color:#5994aa}
 .heading-4 p{font-size:18px;line-height:1.75;font-family:Roboto,Helvetica,Arial,sans-serif}
 .heading-4 p span{font-weight:600}
 .marquee-title{white-space:nowrap;font-weight:700;font-size:165px;word-spacing:0;font-family:Poppins,sans-serif;color:#eee;margin-bottom:-60px}
-#header .header-extras>ul>li .topbar-dropdown>.title,#header .header-extras>ul>li>a:not(.btn),#mainMenu nav>ul>li>a{font-family:Raleway,Helvetica,Arial,sans-serif;text-transform:uppercase}
+#header .header-extras>ul>li .topbar-dropdown>.title,#header .header-extras>ul>li>a:not(.btn),#mainMenu nav>ul>li>a{font-family:'Source Sans Pro',sans-serif;text-transform:uppercase}
 #topbar{z-index:200}
 #topbar .top-menu{list-style:none;margin:0;padding:0;float:left}
 #topbar .top-menu>li{display:inline-block;height:40px;line-height:40px}
@@ -204,7 +204,7 @@ a {color:#5994aa}
 #mainMenu nav>ul>li>a>i{margin-left:2px;margin-right:6px;min-width:14px;font-size:14px}
 #mainMenu nav>ul>li.current>a,#mainMenu nav>ul>li.current>span,#mainMenu nav>ul>li.hover-active>a,#mainMenu nav>ul>li.hover-active>span,#mainMenu nav>ul>li:focus>a,#mainMenu nav>ul>li:focus>span,#mainMenu nav>ul>li:hover>a,#mainMenu nav>ul>li:hover>span{color:#5994aa}
 #mainMenu nav>ul>li .dropdown-menu{background-position:right bottom;background-repeat:no-repeat;visibility:hidden;display:block;opacity:0;transition:all .3s ease;min-width:230px;top:auto;background-color:#fff;border:0 solid #eee;border-width:1px!important;left:auto;margin:-6px 0 0;border-radius:4px;box-shadow:0 0 18px 0 rgba(0,0,0,.05);padding:10px}
-#mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a,#mainMenu nav>ul>li .dropdown-menu>li>a,#mainMenu nav>ul>li .dropdown-menu>li>span{font-family:Montserrat,Helvetica,Arial,sans-serif;font-size:13px;line-height:14px;font-weight:400;font-style:normal;color:#444;padding:12px 20px 12px 18px;display:block;transition:.3s ease}
+#mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a,#mainMenu nav>ul>li .dropdown-menu>li>a,#mainMenu nav>ul>li .dropdown-menu>li>span{font-family:'Source Sans Pro',sans-serif;font-size:13px;line-height:14px;font-weight:400;font-style:normal;color:#444;padding:12px 20px 12px 18px;display:block;transition:.3s ease}
 #mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a:active,#mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a:focus,#mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a:hover,#mainMenu nav>ul>li .dropdown-menu>li>a:active,#mainMenu nav>ul>li .dropdown-menu>li>a:focus,#mainMenu nav>ul>li .dropdown-menu>li>a:hover,#mainMenu nav>ul>li .dropdown-menu>li>span:active,#mainMenu nav>ul>li .dropdown-menu>li>span:focus,#mainMenu nav>ul>li .dropdown-menu>li>span:hover{background-color:transparent;color:#5994aa;cursor:pointer}
 #mainMenu nav>ul>li .dropdown-menu>li [class*=col-]>ul>li>a>i,#mainMenu nav>ul>li .dropdown-menu>li>a>i,#mainMenu nav>ul>li .dropdown-menu>li>span>i{margin-left:-4px;margin-right:6px;min-width:14px}
 #mainMenu nav>ul>li .dropdown-menu>li.current>a,#mainMenu nav>ul>li .dropdown-menu>li.current>span,#mainMenu nav>ul>li .dropdown-menu>li.hover-active>a,#mainMenu nav>ul>li .dropdown-menu>li.hover-active>span,#mainMenu nav>ul>li .dropdown-menu>li:active>a,#mainMenu nav>ul>li .dropdown-menu>li:active>span,#mainMenu nav>ul>li .dropdown-menu>li:focus>a,#mainMenu nav>ul>li .dropdown-menu>li:focus>span,#mainMenu nav>ul>li .dropdown-menu>li:hover>a,#mainMenu nav>ul>li .dropdown-menu>li:hover>span{color:#5994aa!important}
@@ -1305,7 +1305,7 @@ span.rec-by{font-size:11px;position:relative;top:31px}
 .icon-box{margin-bottom:50px}
 .icon-box .icon{height:64px;position:absolute;width:64px}
 .icon-box .icon i{font-size:28px;text-align:center;line-height:66px;-webkit-transition:background-color .2s,color .2s;transition:background-color .2s,color .2s}
-.icon-box h3,.icon-box h5,.icon-box p{font-family:Roboto,Helvetica,Arial,sans-serif;font-size:16px}
+.icon-box h3,.icon-box h5,.icon-box p{font-family:'Source Sans Pro',sans-serif;font-size:16px}
 .icon-box .icon a,.icon-box .icon i{width:100%;height:100%;color:#333}
 .icon-box h3,.icon-box h5{margin:0 12px 10px 83px;letter-spacing:0;line-height:25px;font-weight:700}
 .item-link,.tags a{letter-spacing:1px}
@@ -2735,7 +2735,7 @@ footer.background-grey .copyright-content{border-top:1px solid #ddd}
 #footer.footer-dark .copyright-content{border-top:1px solid #222;min-height:80px;padding:30px 0;background-color:#1a1a1a}
 #footer.footer-sticky.footer-sticky-active{position:fixed;bottom:0;left:0;z-index:0;width:100%}
 .widget{margin-bottom:30px;position:relative}
-.widget .widget-title,.widget>h4{color:#f5f5f5;font-family:open sans;font-size:14px;font-style:normal;font-weight:600;text-transform:uppercase;line-height:24px;letter-spacing:1px;margin-bottom:28px;}
+.widget .widget-title,.widget>h4{color:#f5f5f5;font-family:'Source Sans Pro', sans-serif;font-size:14px;font-style:normal;font-weight:600;text-transform:uppercase;line-height:24px;letter-spacing:1px;margin-bottom:28px;}
 .widget a{font-size:13px}
 .widget:after,.widget:before{clear:both;content:" ";display:table}
 .widget iframe{width:100%;height:auto}
