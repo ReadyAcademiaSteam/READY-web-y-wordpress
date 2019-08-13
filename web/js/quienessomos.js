@@ -8,7 +8,7 @@
   var click = false;
   var properties = {
     cols: 64,
-    rows: 32,
+    rows: 64,
     color: "#ffdf66",
     altColor: "#ff0000",
     sLength: 0,

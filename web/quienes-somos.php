@@ -82,12 +82,12 @@
         <p><a href="https://www.academiaready.es">READY Academia STEAM</a> es el resultado de varios años de experiencia de distintos profesionales albacetenses de la docencia en distintos centros y partiendo de otras perspectivas y enfoques de la enseñanza.</p>
         <p>Somos un grupo de locos ingenieros, maestros, filólogos, físicos y hasta titulados superiores en música y arte dramático. De ahí nuestra aplicación de la filosofía principal del centro, STEAM.</p>
         <p>En READY Academia STEAM creemos en la creatividad y fomentamos el descubrimiento y el uso de las habilidades, capacidades y talentos de cada uno de nuestros estudiantes para diseñar y definir una única, personalizada y propia manera de enfocar el estudio.</p>
-</div>
+    </div>
     <div class="col-lg-6">
         <p>Nuestro concepto en el refuerzo escolar es muy parecido. READY Academia STEAM tiene en cuenta la frustración y ansiedad que en ocasiones el estudiante siente cuando no es capaz de alcanzar unos resultados impuestos como obligatorios en materias cuya necesidad y sentido no entiende. Con nuestro sistema y nuestra atención, podemos garantizar que no sólo los comprenden sino que, aún más, los disfrutan.</p>
         <p>Además de ayudar a nuestros alumnos con los baches que puedan encontrar en sus estudios, realizamos cursos de <a href="servicios/refuerzo-escolar.php">robótica</a>, programación y un largo etcétera. Materias diferentes y con las que introducirles en las nuevas tecnologías, en la robótica educativa y en la programación que será esencial en el futuro más cercano. Conseguimos que los alumnos apliquen, de una forma lúdica y satisfactoria, conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender para montar robots y programarlos, o crear sus propios videojuegos y enseñarlos orgullosos a sus amigos.</p>
 
-</div>
+    </div>
     </div></div>
     </div>
     </div>

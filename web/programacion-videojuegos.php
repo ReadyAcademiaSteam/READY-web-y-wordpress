@@ -38,7 +38,7 @@
 <meta name="theme-color" content="#ffffff">
 
 </head>
-<body>
+<body data-icon="12">
 
 <div id="wrapper">
 
