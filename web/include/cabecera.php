@@ -45,7 +45,7 @@
           <nav>
             <ul>
 
-              <li<? if($menu==1){ echo " class='current'"; } ?>><a href="https://<? echo dominio; ?>/<? echo carpeta; ?>">Inicio</a></li>
+              <li class="dropdown<? if($menu==1){ echo " class='current'"; } ?>"><a href="https://<? echo dominio; ?>/<? echo carpeta; ?>">Inicio</a></li>
 
               <li class="dropdown<? if($menu==2){ echo " current"; } ?>"> <a href="#">Sobre nosotros</a>
                 <ul class="dropdown-menu">

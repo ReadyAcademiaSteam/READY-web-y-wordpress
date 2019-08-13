@@ -114,19 +114,18 @@ font-family: 'Source Sans Pro', sans-serif;
 	animation: volare 8s linear infinite;
 }
 
-@media only screen and (max-width: 600px) { 
-
-
-
-#refuerzo-universitario { 
-
-width:20%;
-
-}}
-
+.volar2 {
+	animation: volare2 10s linear infinite;
+}
 
 /* Animaciones */
+
+@-webkit-keyframes volare {
+	100% { background-position: -2048px 512px, -4096px 512px, -8192px 512px; }
+}
 
 @keyframes volare {
 	100% { background-position: -2048px 512px, -4096px 512px, -8192px 512px; }
 }
+
+

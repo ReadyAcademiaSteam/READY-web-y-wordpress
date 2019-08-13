@@ -45,8 +45,10 @@
 <? include("include/cabecera.php"); ?>
 
 <section id="page-title" class="page-title-center background-overlay-dark text-light fondo-videojuegos volar">
-
-  <div class="container">
+  <div style="position: relative;">
+        <img style="position: absolute; z-index: -1; display:block;    margin-left: 2em; margin-right:auto; width:10%; animation-delay: 1s;" id="ninosrefuerzo" aligh="middle" src="images/videojuegos/cohetegif.gif" data-animation="bounceInLeft" animation-delay="1s">
+    </div>
+<div class="container">
     <div class="page-title">
       <h1 style="text-shadow: 2px 2px 2px #ed6d6b;">Programación de Videojuegos</h1>
     </div>
