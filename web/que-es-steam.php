@@ -44,7 +44,7 @@
 
 <? include("include/cabecera.php"); ?>
 
-<section id="page-title" class="page-title-center text-light" data-vide-bg="video/explore/explore" data-vide-options="position: 0% 50%">
+<section id="page-title" class="page-title-center text-light">
     <div style="background-color: #ed6d6b; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; ">
         <canvas id="que-es-steam-canvas" style="margin: auto; position: absolute; z-index: -1;  visibility: visible; opacity: 0.4; width: 100%;">
         

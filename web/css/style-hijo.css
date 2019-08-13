@@ -23,6 +23,11 @@ h1 {
 font-family: 'Source Sans Pro', sans-serif;
 }
 
+#ninosrefuerzo {
+	width:100%;
+	margin:auto;
+}
+
 #page-title .page-title>h1 {
 		
 	font-family: 'Pixelar', sans-serif;
@@ -86,3 +91,42 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 
+/* fantasías */
+
+.fondo-videojuegos {
+	
+	background:#1c1c1caa;
+	margin: auto;
+	display:block;
+	background-color: #1c1c1c;
+	background-image: 
+		url('../images/videojuegos/stars1.png'), 
+		url('../images/videojuegos/stars2.png'), 
+		url('../images/videojuegos/stars3.png');
+	background-position: 0 0, 0 0, 0 0; /* firefox needs this */
+	overflow: hidden;
+}
+
+.fondo-videojuegos:before {
+	background: rgba(0,0,0,0.2);
+}
+.volar {
+	animation: volare 8s linear infinite;
+}
+
+@media only screen and (max-width: 600px) { 
+
+
+
+#refuerzo-universitario { 
+
+width:20%;
+
+}}
+
+
+/* Animaciones */
+
+@keyframes volare {
+	100% { background-position: -2048px 512px, -4096px 512px, -8192px 512px; }
+}

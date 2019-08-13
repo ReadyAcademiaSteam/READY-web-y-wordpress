@@ -57,7 +57,7 @@
               <li class="dropdown<? if($menu==3){ echo " current"; } ?>"> <a href="#">Servicios</a>
                 <ul class="dropdown-menu">
                   <li><a href="refuerzo-escolar.php"><i class="fa fa-book"></i>Refuerzo escolar</a></li>
-                  <li><a href="refuerzo-escolar.php"><i class="fa fa-graduation-cap"></i>Refuerzo universitario</a></li>
+                  <li><a href="refuerzo-universitario.php"><i class="fa fa-graduation-cap"></i>Refuerzo universitario</a></li>
                   <li><a href="ingles-para-ninos.php"><i class="fa fa-flag"></i>Inglés para niños</a></li>
                   <li><a href="ingles-para-adultos.php"><i class="fa fa-flag"></i>Inglés para adultos</a></li>
                   <li><a href="robotica.php"><i class="fa fa-cogs"></i>Robótica educativa</a></li>

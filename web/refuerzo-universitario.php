@@ -45,9 +45,9 @@
 
 <? include("include/cabecera.php"); ?>
 
-<section id="page-title" class="page-title-center  text-light ">
-  <div style="background-color: #5994aa; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; vertical-align: bottom;">
-        <img style="display:block;    margin-left: auto; margin-right:auto; width:70%; margin-top:16em; animation-delay: 1s;" id="ninosrefuerzo" src="images/refuerzo/estudiantes.png" data-animation="bounceInUp" animation-delay="1s">
+<section id="page-title" class="page-title-center  text-light " style="vertical-align: bottom">
+  <div style="background-color: #5994aa; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden;">
+        <img id="refuerzo-universitario" style="display:block;    margin-left: auto; margin-right:auto; width:70%; margin-top:3em; animation-delay: 1s; " align="bottom" id="universidad" src="images/universitario/universitarios.png" data-animation="bounceInUp" animation-delay="1s">
     </div>
 
   <div class="container ">
@@ -304,3 +304,4 @@
 
 </body>
 </html>
+
