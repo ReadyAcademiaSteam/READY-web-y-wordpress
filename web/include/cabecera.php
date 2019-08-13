@@ -4,8 +4,8 @@
 
       <div class="col-sm-6">
         <ul class="top-menu">
-          <li><a href="tel:967609944"><i class="fa fa-phone"></i>&nbsp;&nbsp;696 060 363</a></li>
-          <li><a href="tel:696060363"><i class="fa fa-mobile"></i>&nbsp;&nbsp;699 22 04 49</a></li>
+          <li><a href="tel:696060363"><i class="fa fa-phone"></i>&nbsp;&nbsp;696 060 363</a></li>
+          <li><a href="tel:699220449"><i class="fa fa-mobile"></i>&nbsp;&nbsp;699 22 04 49</a></li>
           <li><a href="mailto:hola@academiaready.es"><i class="fa fa-envelope"></i>&nbsp;&nbsp;hola@academiaready.es</a></li>
         </ul>
       </div>
