@@ -124,7 +124,7 @@
     </div>
 
       <div class="row team-members team-members-circle m-b-40">
-        <!-- Antonio Reverte -->
+        <!-- Antonio Reverte 
         <div class="col-lg-4" data-animation="fadeIn">
         <div class="team-member">
         <div class="team-image">
@@ -142,7 +142,7 @@
         <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon">
             <li><i style="color: #ffdf66" class="fa fa-trophy"></i>Aprende muy rápido</li>
             <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta bromear con sus alumnos</li>
-            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
+            <li><i style="color: #6b4d16" class="fa fa-meh"></i>No le gusta que el despertador suene a las 7:00</li>
         </ul>
         <div class="align-center">
         <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
@@ -161,9 +161,9 @@
         </div>
         </div>
         </div>
-          
+          -->
         <!-- Carlos Díaz -->
-        <div class="col-lg-4" data-animation="fadeIn">
+        <div class="col-lg-6" data-animation="fadeIn">
         <div class="team-member">
         <div class="team-image">
         <img src="images/quienessomos/carlos.jpg">
@@ -183,15 +183,15 @@
             <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
         </ul>
         <div class="align-center">
-        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+        <a class="btn btn-xs btn-slide btn-light" href="https://www.linkedin.com/in/carlos-d%C3%ADaz-p%C3%A9rez-293899a8/" data-width="100">
         <i class="fa fa-linkedin"></i>
         <span>Linked.in</span>
         </a>
-        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
+        <a class="btn btn-xs btn-slide btn-light" href="www.carlosisready.es" data-width="100">
         <i class="fa fa-globe"></i>
         <span>Blog</span>
         </a>
-        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
+        <a class="btn btn-xs btn-slide btn-light" href="https://www.instagram.com/carlos.is.ready" data-width="118">
         <i class="fa fa-instagram"></i>
         <span>Instagram</span>
         </a>
@@ -205,7 +205,7 @@
         </div>
           
         <!-- Fito Díaz -->
-        <div class="col-lg-4" data-animation="fadeIn">
+        <div class="col-lg-6" data-animation="fadeIn">
         <div class="team-member">
         <div class="team-image">
         <img src="images/quienessomos/fito.jpg">
@@ -215,29 +215,17 @@
         <span>CMO y formador</span>
         <p>Lengua inglesa, refuerzo infantil y recursos humanos</p>
         <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon list-icon-check list-icon-colored">
-            <li>Ingeniero industrial de profesión</li>
-            <li>Maker de espíritu</li>
-            <li>Músico aficionado</li>
+            <li>Profe de inglés de profesión</li>
+            <li>Payaso de vocación</li>
+            <li>Amante de las artes, sobre todo música y teatro</li>
         </ul>
         <ul style="text-align: left; padding: 0 0 0 2.5em;" class="list-icon">
-            <li><i style="color: #ffdf66" class="fa fa-trophy"></i>Aprende muy rápido</li>
-            <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta bromear con sus alumnos</li>
-            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta que el despertador suene a las 7:00</li>
+            <li><i style="color: #ffdf66" class="fa fa-trophy"></i>No parará hasta que lo entiendas</li>
+            <li><i style="color: #ed6d6b" class="fa fa-heart "></i>Le encanta ver a sus alumnos progresar</li>
+            <li><i style="color: #6b4d16" class="fa fa-poo"></i>No le gusta dar patadas a los muebles cuando va descalzo (pero a veces lo hace)</li>
         </ul>
         <div class="align-center">
-        <a class="btn btn-xs btn-slide btn-light" href="#">
-        <i class="fa fa-facebook-f"></i>
-        <span>Facebook</span>
-        </a>
-        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="100">
-        <i class="fa fa-twitter"></i>
-        <span>Twitter</span>
-        </a>
-        <a class="btn btn-xs btn-slide btn-light" href="#" data-width="118">
-        <i class="fa fa-instagram"></i>
-        <span>Instagram</span>
-        </a>
-        <a class="btn btn-xs btn-slide btn-light" href="mailto:#" data-width="80">
+        <a class="btn btn-xs btn-slide btn-light" href="mailto:fito@academiaready.es" data-width="80">
         <i class="fa fa-envelope"></i>
         <span>Mail</span>
         </a>
@@ -251,7 +239,7 @@
   </div>
 </section>
 
-<section class="background-grey">
+<!--<section class="background-grey">
     <div class="container">
     <div class="heading heading-center text-center heading-line">
         <h2>Nuestro equipo</h2>
@@ -378,22 +366,7 @@
         </div>
         </div>
     </div>
-    <div class="call-to-action p-t-100 p-b-100  mb-0 call-to-action-dark">
-        <div class="container">
-            <div class="row">
-            <div class="col-lg-10">
-                <h3>
-                ¿Quieres estar informado/a de las <span>novedades y ofertas</span> de READY?
-                </h3>
-                <p>
-                Accede al instante a descuentos, regalos y ofertas exclusivas.
-                </p>
-            </div>
-            <div class="col-lg-2"><a class="btn" href="#">¡Suscribete!</a></div>
-            </div>
-        </div>
-    </div>
-</section>
+</section> -->
 
 <? include("include/pie.php"); ?>
 

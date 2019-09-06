@@ -58,11 +58,15 @@
                 <ul class="dropdown-menu">
                   <li><a href="refuerzo-escolar.php"><i class="fa fa-book"></i>Refuerzo escolar</a></li>
                   <li><a href="refuerzo-universitario.php"><i class="fa fa-graduation-cap"></i>Refuerzo universitario</a></li>
+                  <li><a href="#"><i class="fa fa-book"></i>Competencias clave <span style="background-color:#ed6d6b" class="badge"> Próximamente</span></a></li>
+                  <li><a href="clases-online.php"><i class="fa fa-skype"></i>Clases online</a></li>
                   <li><a href="ingles-para-ninos.php"><i class="fa fa-flag"></i>Inglés para niños</a></li>
                   <li><a href="ingles-para-adultos.php"><i class="fa fa-flag"></i>Inglés para adultos</a></li>
                   <li><a href="robotica.php"><i class="fa fa-cogs"></i>Robótica educativa</a></li>
-                  <li><a href="programacion-videojuegos.php"><i class="fa fa-desktop"></i>Programación de videojuegos</a></li>
-                  <li><a href="taller-inventores.php"><i class="fa fa-flask"></i>Taller de inventores</a></li>
+                  <li><a href="programacion-de-videojuegos.php"><i class="fa fa-desktop"></i>Programación de videojuegos</a></li>
+                  <li><a href="#"><i class="fa fa-laptop"></i>Informática <span style="background-color:#ed6d6b" class="badge"> Próximamente</span></a></li>
+                  <li><a href="taller-inventores.php"><i class="fa fa-flask"></i>Taller de inventores <span style="background-color:#ed6d6b" class="badge">Proximamente</span></a></li>
+                  
                 </ul>
               </li>
 

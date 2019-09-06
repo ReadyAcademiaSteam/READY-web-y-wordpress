@@ -3,7 +3,7 @@
 <head>
 	
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141795019-2"></script> -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141795019-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -157,16 +157,16 @@
 <section>
   <div class="container">
     <h1 class="text-center titulo">Bienvenidos a READY Academia STEAM</h1>
-    <div class="hr-title hr-long center"><abbr>¿En qué te podemos ayudar?</abbr></div>
-    <div class="row">
-    <div class="col-lg-3">
-    <div class="icon-box effect small fancy">
-    <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-edit"></i></a> </div>
-    <h3>Matrícula gratis</h3>
-    <p>No pagas matrícula al venir con nosotros. ¡Queremos darte una alegría nada más empezar! &#x1F609;</p>
-    </div>
-    </div>
-    <div class="col-lg-3">
+      <div class="hr-title hr-long center"><abbr>¿En qué te podemos ayudar?</abbr></div>
+      <div class="row">
+        <div class="col-lg-3">
+          <div class="icon-box effect small fancy">
+            <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-edit"></i></a> </div>
+            <h3>Matrícula gratis</h3>
+            <p>No pagas matrícula al venir con nosotros. ¡Queremos darte una alegría nada más empezar! &#x1F609;</p>
+          </div>
+        </div>
+        <div class="col-lg-3">
     <div class="icon-box effect small fancy">
     <div class="icon"> <a href="#"><i style="color:#5994aa;" class="fa fa-calendar"></i></a> </div>
     <h3>Prueba una clase</h3>

@@ -21,7 +21,7 @@
 <meta name="author" content="<? echo autor; ?>" />
 <meta name="description" content="<? echo descripcion; ?>">
 
-<title><? echo titulo; ?></title>
+<title>Refuerzo universitario - <? echo titulo; ?></title>
 
 
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
@@ -46,19 +46,19 @@
 <? include("include/cabecera.php"); ?>
 
 <section id="page-title" class="page-title-center  text-light " style="vertical-align: bottom">
-  <div style="background-color: #5994aa; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden;">
-        <img id="refuerzo-universitario" style="display:block;    margin-left: auto; margin-right:auto; width:70%; margin-top:3em; animation-delay: 1s; " align="bottom" id="universidad" src="images/universitario/universitarios.png" data-animation="bounceInUp" animation-delay="1s">
+  <div style="background-color: #ed6d6b; position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden;">
+        <img style="display:block;    margin-left: auto; margin-right:auto; width:100%; animation-delay: 1s;" align="bottom" id="universidad" src="images/universitario/chicos-universidad.png" animation-delay="1s">
     </div>
 
   <div class="container ">
     <div class="page-title">
-      <h1>Refuerzo Escolar</h1>
+      <h1>Refuerzo Universitario</h1>
     </div>
     <div class="breadcrumb">
       <ul>
         <li><a href="#">Inicio</a></li>
         <li><a href="#">Servicios</a></li>
-        <li class="active"><a href="#">Refuerzo Escolar</a></li>
+        <li class="active"><a href="#">Refuerzo Universitario</a></li>
       </ul>
     </div>
   </div>
@@ -68,225 +68,61 @@
   <div class="container">
 
     <div class="heading heading-center m-b-40" data-animation="fadeInUp">
-      <h2>REFUERZO DE PRIMARIA, SECUNDARIA Y BACHILLERATO</h2>
+      <h2>REFUERZO UNIVERSITARIO </h2>
       <!--<span class="lead">READY Academia Steam ¿De dónde surge este proyecto?</span>-->
     </div>
 
     <div class="row" data-animation="fadeInUp">
       <div class="col-md-5">
-        <img alt="" src="images/pizarra_inicio.jpg" class="img-responsive">
+        <img alt="" src="images/universitario/universitarios-pixel.png" class="img-responsive">
       </div>
       <div class="col-md-7 text-left">
-        <p class="lead">Nuestro concepto en el refuerzo escolar es muy parecido. READY Academia STEAM tiene en cuenta la frustración y ansiedad que en ocasiones el estudiante siente cuando no es capaz de alcanzar unos resultados impuestos como obligatorios en materias cuya necesidad y sentido no entiende.</p>
-        <p class="lead">STEAM es el uso y la integración de disciplinas científicas, tecnológicas, ingeniería, artes y matemáticas en el diseño de un modelo de enseñanza y aprendizaje efectivo y agradable para el estudiante.</p>
-        <p class="lead">A través de materias como nuestros talleres de robótica o programación, en centro de estudios READY conseguimos que los alumnos apliquen, de una forma lúdica y satisfactoria, conceptos que de otro modo suelen encontrar tediosos y difíciles de comprender y desde luego carentes de utilidad.</p>
-        <p class="lead">En Ready Academia STEAM podemos garantizar que no sólo los comprenden sino que, aún más, los disfrutan.</p>
-        <p class="lead">Academia READY se compromete, en este sentido, con el bienestar de nuestros alumnos trabajando conjuntamente con profesionales de la psicología en la reducción y la adecuada gestión del estrés ante los examenes y el trabajo diario.</p>
-        <p class="lead">En READY Academia STEAM creemos en la creatividad y fomentamos el descubrimiento y el uso de las habilidades, capacidades y talentos de cada uno de nuestros estudiantes para diseñar y definir una única, personalizada y propia manera de enfocar el estudio.</p>
+        <p class="lead">El curso 2019/2020 ha empezado con fuerza y este año apostamos por completar nuestros 
+        servicios atendiendo a uno de los sectores educativos que peor lo pasan al empezar. Los estudiantes universitarios.</p>
+        <p class="lead">La transición desde el instituto, de los estudios de bachillerato (o de los estudios desde los que provengan) a la universidad suele ser realmente dura. La universidad es mucho más intensa, más exigente, más áspera que el instituto, pero a la vez aporta mucho más al alumno puesto que se empapa de los conocimientos que formarán la base de su futuro profesional.</p>
+        <p class="lead">Es por eso que en Ready Academia STEAM nos comprometemos a trabajar, codo con codo, con nuestros estudiantes universitarios, con el fin de superar los baches que puedan encontrar y prepararse a 
+        la perfección para los exámenes.</p>
+        <p class="lead">Ya sea en clases particulares, en grupos reducidos para una asignatura en concreto, online o presencial, os ofrecemos maleabilidad, flexibilidad y sobre todo, confianza. Queremos que cuentes con nosotros para superar tus baches. Queremos que cuentes con nosotros para preparar tus asignaturas.</p>
+        <p class="lead">Tenemos experiencia en preparar asignaturas de diferente tipo con excelentes resultados. Cálculo, álgebra, física, matemáticas para magisterio... Y un largo etcétera.</p>
+    </div>
+
+  </div>
+</section>
+	
+	<section class="background-grey p-b-0">
+  <div class="container">
+    <div class="page-title text-center">
+      <h2>Dínos que necesitas</h2>
+    </div>
+    <div class="hr-title hr-long center">
+      <abbr>Nosotros nos adaptamos</abbr>
+    </div>
+
+    <div class="row">
+      <div class="container">
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <p>Si estás buscando montar un grupo de alguna asignatura universitaria en Albacete, somos tu academia.</p>
+        <p>Nuestros profesores se adaptan a tus necesidades. Tenemos una amplia experiencia impartiendo asignaturas de diferentes carreras universitarias.</p>
+        <p><h3>¿Qué necesitas?</h3></p>
+        <ul class="list-icon list-icon-check coloured" style="padding:0 0 0 2em;">
+          <li>Magisterio</li>
+          <li>Agrónomos</li>
+          <li>Industriales</li>
+          <li>Informática</li>
+        </ul>
+      </div>
+      <div class="col-md-offset-1 col-md-7 col-sm-12 col-xs-12">
+        <div style="background-image:url(images/universitario/universitarios2.png);" class="call-to-action background-image">
+          <h3 class="highlight-titulo">
+            ¿Buscas profesor de <span class="text-rotator highlight-asignatura">termodinámica de industriales, cálculo de agrónomos, matemáticas de magisterio, física de informática</span>?
+          </h3>
+          <p class="highlight-cuerpo">Tenemos una ámplia red de profesores que os podrán ayudar en la asignatura que necesitéis. Y numerosas maneras de hacerlo. Grupos reducidos, clases particulares, clases particulares online... nos ajustamos a lo que tu quieras.</p>
+          <a class="btn btn-outline btn-light" data-container="body" data-toggle="popover" data-placement="top" title="Contacto" data-content='<a href="tel:696060363" class="btn btn-primary">¡Llama o whatsapp!</a>'>Más información</a>
+          </div>
       </div>
     </div>
-
-  </div>
-</section>
-	
-	<section class="background-grey p-b-0">
-  <div class="container">
-
-    <div class="hr-title hr-long center">
-      <abbr>Tarifas y precios</abbr>
-    </div>
-
-    <div class="row">
-      <div class="pricing-table">
-
-        <div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>PRIMARIA / ESO</h4>
-              <p class="text-muted">2 horas semanales</p>
-              <div class="plan-price">38<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>105 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 35 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>PRIMARIA / ESO</h4>
-              <p class="text-muted">3 horas semanales</p>
-              <div class="plan-price">54<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>150 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 51 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>PRIMARIA / ESO</h4>
-              <p class="text-muted">4 horas semanales</p>
-              <div class="plan-price">70<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>200 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 66 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>PRIMARIA / ESO</h4>
-              <p class="text-muted">5 horas semanales</p>
-              <div class="plan-price">85<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>240 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 80 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>PRIMARIA / ESO</h4>
-              <p class="text-muted">6 horas semanales</p>
-              <div class="plan-price">96<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>270 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 90 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
     </div>
     </div>
-  </div>
-</section>
-	
-	<section class="background-grey p-b-0">
-  <div class="container">
-
-    <div class="hr-title hr-long center">
-      <abbr>Tarifas y precios</abbr>
-    </div>
-
-    <div class="row">
-      <div class="pricing-table">
-
-        <div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>BACHILLER</h4>
-              <p class="text-muted">2 horas semanales</p>
-              <div class="plan-price">45<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>125 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 41,6 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>BACHILLER</h4>
-              <p class="text-muted">3 horas semanales</p>
-              <div class="plan-price">62<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>174 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 58 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>BACHILLER</h4>
-              <p class="text-muted">4 horas semanales</p>
-              <div class="plan-price">78<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>216 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 72 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>BACHILLER</h4>
-              <p class="text-muted">5 horas semanales</p>
-              <div class="plan-price">95<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>267 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 89 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-				
-				<div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="plan">
-            <div class="plan-header">
-              <h4>BACHILLER</h4>
-              <p class="text-muted">6 horas semanales</p>
-              <div class="plan-price">115<sup>€</sup><span>/mes</span></div>
-              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
-            </div>
-            <div class="plan-list">
-              <ul>
-                <li><i class="fa fa-money"></i>324 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 108 € mensual</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-    </div>
-    </div>
-  </div>
 </section>
 	
 

@@ -88,6 +88,25 @@ font-family: 'Source Sans Pro', sans-serif;
 	text-shadow: 2px 2px 2px #1c1c1c;
 }
 
+.highlight-titulo {
+	color: #f5f5f5;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+
+.highlight-asignatura {
+	font-size: 1.5em;
+	color: #59944a;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+
+.highlight-cuerpo {
+	color: #f5f5f5;
+	text-shadow: 2px 2px 2px #1c1c1c;
+}
+
+.imagen-online {
+	margin: 0; !important
+}
 
 
 /* fantasías */
@@ -126,5 +145,4 @@ font-family: 'Source Sans Pro', sans-serif;
 @keyframes volare {
 	100% { background-position: -2048px 512px, -4096px 512px, -8192px 512px; }
 }
-
 

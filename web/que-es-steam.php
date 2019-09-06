@@ -129,21 +129,7 @@
 
         
     </div>
-    <div class="call-to-action p-t-100 p-b-100  mb-0 call-to-action-dark">
-        <div class="container">
-            <div class="row">
-            <div class="col-lg-10">
-                <h3>
-                ¿Quieres estar informado/a de las <span>novedades y ofertas</span> de READY?
-                </h3>
-                <p>
-                Accede al instante a descuentos, regalos y ofertas exclusivas.
-                </p>
-            </div>
-            <div class="col-lg-2"><a class="btn" href="#">¡Suscribete!</a></div>
-            </div>
-        </div>
-    </div>
+
 </section>
 
 <? include("include/pie.php"); ?>

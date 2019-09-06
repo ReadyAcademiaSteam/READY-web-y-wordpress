@@ -21,12 +21,14 @@
 <meta name="author" content="<? echo autor; ?>" />
 <meta name="description" content="<? echo descripcion; ?>">
 
-<title><? echo titulo; ?></title>
+<title>Inglés para adultos - <? echo titulo; ?></title>
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
 <link href="css/plugins.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/style-hijo.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
 
 <link rel="icon" href="imagenes/favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="imagenes/apple-icon-57x57.png">
@@ -36,7 +38,7 @@
 <meta name="theme-color" content="#ffffff">
 
 </head>
-<body>
+<body data-icon="12">
 
 <div id="wrapper">
 
@@ -183,6 +185,7 @@
     </div>
     </div>
   </div>
+
 </section>
 
 

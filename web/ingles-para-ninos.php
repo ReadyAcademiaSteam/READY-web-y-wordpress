@@ -21,12 +21,14 @@
 <meta name="author" content="<? echo autor; ?>" />
 <meta name="description" content="<? echo descripcion; ?>">
 
-<title><? echo titulo; ?></title>
+<title>Inglés para niños - <? echo titulo; ?></title>
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600&display=swap" rel="stylesheet">
 <link href="css/plugins.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/style-hijo.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
 
 <link rel="icon" href="imagenes/favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="imagenes/apple-icon-57x57.png">
@@ -36,7 +38,7 @@
 <meta name="theme-color" content="#ffffff">
 
 </head>
-<body>
+<body data-icon="12">
 
 <div id="wrapper">
 
@@ -93,6 +95,7 @@
   <div class="container">
 
     <div class="hr-title hr-long center">
+      <h2>Precios de inglés en primaria</h2>
       <abbr>Tarifas y precios</abbr>
     </div>
 
@@ -104,14 +107,14 @@
             <div class="plan-header">
               <h4>STARTERS</h4>
               <p class="text-muted">2 horas semanales</p>
-              <div class="plan-price">38<sup>€</sup><span>/mes</span></div>
+              <div class="plan-price">40<sup>€</sup><span>/mes</span></div>
               <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
             </div>
             <div class="plan-list">
               <ul>
                 <li><i class="fa fa-thumbs-up"></i>1<sup>er</sup> Ciclo de Primaria</li>
-                <li><i class="fa fa-money"></i>96 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 32 € mensual</li>
+                <li><i class="fa fa-money"></i>108 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 36 € mensual</li>
               </ul>
             </div>
           </div>
@@ -122,14 +125,14 @@
             <div class="plan-header">
               <h4>MOVERS</h4>
               <p class="text-muted">2 horas semanales</p>
-              <div class="plan-price">40<sup>€</sup><span>/mes</span></div>
+              <div class="plan-price">42<sup>€</sup><span>/mes</span></div>
               <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
             </div>
             <div class="plan-list">
               <ul>
                 <li><i class="fa fa-thumbs-up"></i>2<sup>o</sup> Ciclo de Primaria</li>
-                <li><i class="fa fa-money"></i>100 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 33 € mensual</li>
+                <li><i class="fa fa-money"></i>112 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 37 € mensual</li>
               </ul>
             </div>
           </div>
@@ -140,14 +143,76 @@
             <div class="plan-header">
               <h4>FLYERS</h4>
               <p class="text-muted">2 horas semanales</p>
-              <div class="plan-price">42<sup>€</sup><span>/mes</span></div>
+              <div class="plan-price">45<sup>€</sup><span>/mes</span></div>
               <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
             </div>
             <div class="plan-list">
               <ul>
                 <li><i class="fa fa-thumbs-up"></i>3<sup>er</sup> Ciclo de Primaria</li>
-                <li><i class="fa fa-money"></i>108 € / trimestral</li>
-                <li><i class="fa fa-calculator"></i>Equivale a 36 € mensual</li>
+                <li><i class="fa fa-money"></i>120 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 40 € mensual</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+    <div class="hr-title hr-long center">
+      <h2>Precios de inglés en secundaria y bachillerato</h2>
+      <abbr>Tarifas y precios</abbr>
+    </div>
+
+    <div class="row">
+      <div class="pricing-table">
+
+        <div class="col-md-4 col-sm-12 col-xs-12">
+          <div class="plan">
+            <div class="plan-header">
+              <h4>A2 for Schools</h4>
+              <p class="text-muted">2 horas semanales</p>
+              <div class="plan-price">45<sup>€</sup><span>/mes</span></div>
+              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
+            </div>
+            <div class="plan-list">
+              <ul>
+                <li><i class="fa fa-thumbs-up"></i>1<sup>er</sup> Ciclo de Secundaria (aproximadamente)</li>
+                <li><i class="fa fa-money"></i>120 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 40 € mensual</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-sm-12 col-xs-12">
+          <div class="plan">
+            <div class="plan-header">
+              <h4>B1 for Schools</h4>
+              <p class="text-muted">2 horas semanales</p>
+              <div class="plan-price">47<sup>€</sup><span>/mes</span></div>
+              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
+            </div>
+            <div class="plan-list">
+              <ul>
+                <li><i class="fa fa-thumbs-up"></i>2<sup>o</sup> Ciclo de Secundaria</li>
+                <li><i class="fa fa-money"></i>127 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 37 € mensual</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-sm-12 col-xs-12">
+          <div class="plan">
+            <div class="plan-header">
+              <h4>B2 for Shcools</h4>
+              <p class="text-muted">2 horas semanales</p>
+              <div class="plan-price">50<sup>€</sup><span>/mes</span></div>
+              <a class="btn" href="https://goo.gl/forms/Kekycyp9w4Fa7QFc2" target="_blank"><span>Me interesa</span></a>
+            </div>
+            <div class="plan-list">
+              <ul>
+                <li><i class="fa fa-thumbs-up"></i>Bachillerato</li>
+                <li><i class="fa fa-money"></i>135 € / trimestral</li>
+                <li><i class="fa fa-calculator"></i>Equivale a 45 € mensual</li>
               </ul>
             </div>
           </div>
@@ -155,7 +220,11 @@
 
     </div>
     </div>
+
   </div>
+</div>
+</div>
+
 </section>
 
 
